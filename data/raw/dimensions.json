@@ -1,0 +1,54 @@
+{
+ "generalization": [
+  "stack_bowls",
+  "push_T",
+  "pack_objects_into_box",
+  "fold_clothes",
+  "hang_mugs",
+  "sweep_blocks",
+  "pour_liquid_into_cup",
+  "make_toast",
+  "arrange_largest_number",
+  "sort_nesting_dolls_by_size",
+  "store_laptop_and_headphones",
+  "stack_blocks"
+ ],
+ "precision": [
+  "fasten_screws",
+  "insert_tubes",
+  "plug_in_charger",
+  "pour_balls_into_vase",
+  "play_Xylophone",
+  "deposit_coin",
+  "insert_key",
+  "build_tower"
+ ],
+ "longHorizon": [
+  "put_bottles_into_dustbin",
+  "play_tic_tac_toe",
+  "classify_objects",
+  "fill_pen_holder",
+  "fill_egg_holder",
+  "organize_table",
+  "play_stacking_toy",
+  "make_kong"
+ ],
+ "memory": [
+  "cover_blocks",
+  "match_and_pick_from_conveyor",
+  "swap_T",
+  "press_by_number",
+  "imitate_sorting_sequence",
+  "swap_blocks"
+ ],
+ "open": [
+  "align_blocks",
+  "solve_equation",
+  "stack_blocks_by_language",
+  "general_pickup",
+  "classify_objects_by_language",
+  "pick_from_conveyor_by_image",
+  "store_tools_in_toolbox",
+  "pour_by_language"
+ ]
+}

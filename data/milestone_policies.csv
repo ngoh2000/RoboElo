@@ -1,0 +1,35 @@
+policy,name,released,reason,note
+RT_1,RT-1,2022-12,first large-scale robot transformer,SimplerEnv: Google Robot only
+DP,Diffusion Policy,2023-03,diffusion policy; imitation-learning baseline,a method: RoboTwin trains its own checkpoints
+ACT,ACT,2023-04,action chunking for bimanual ALOHA,a method: benchmarks train their own checkpoints
+RT-1-X,RT-1-X,2023-10,Open X-Embodiment cross-embodiment data,
+Octo,Octo,2024-05,open generalist policy,
+OpenVLA,OpenVLA,2024-06,open 7B vision-language-action model,
+ECoT,ECoT,2024-07,embodied chain-of-thought reasoning,SimplerEnv: WidowX only (Bridge-only model); not yet in the fit
+RDT_1B,RDT-1B,2024-10,bimanual diffusion foundation model,
+Pi_0,π0,2024-10,flow-matching VLA,
+CogACT,CogACT,2024-11,VLA with a diffusion action module,
+Pi0_FAST,π0-FAST,2025-01,FAST action tokenizer,
+SpatialVLA,SpatialVLA,2025-01,spatial representations for VLA,
+OpenVLA_OFT,OpenVLA-OFT,2025-02,optimized fine-tuning recipe,
+Pi_05,π0.5,2025-04,open-world generalization,
+UniVLA,UniVLA,2025-05,task-centric latent actions,SimplerEnv: WidowX only
+GR00T_N15,GR00T N1.5,2025-05,NVIDIA GR00T humanoid foundation models,"SimplerEnv: our run of the released checkpoints (NVIDIA's published per-task results use its own SimplerEnv fork); LIBERO, SimplerEnv and RoboCasa365 checkpoints released; not on RoboDojo or RoboTwin"
+SmolVLA,SmolVLA,2025-06,small open VLA,RoboTwin run pending
+MolmoAct,MolmoAct,2025-08,action reasoning model: depth and trajectory tokens before actions,SimplerEnv: Google Robot only (no WidowX checkpoint was released)
+X_VLA,X-VLA,2025-10,soft-prompted cross-embodiment VLA,
+InternVLA_M1,InternVLA-M1,2025-10,spatially guided VLA,LIBERO: one checkpoint per suite; SimplerEnv not yet in the fit
+GR00T_N16,GR00T N1.6,2025-12,NVIDIA GR00T humanoid foundation models,
+LingBot_VA,LingBot-VA,2026-01,causal world modeling for robot control,the released LIBERO checkpoint covers the Long suite only; RoboTwin run pending
+Xiaomi_Robotics_0,Xiaomi-R0,2026-02,Xiaomi robotics foundation model,LIBERO: XiaomiRobotics/Xiaomi-Robotics-0-LIBERO; SimplerEnv not yet in the fit
+Abot_M0,ABot-M0,2026-02,,LIBERO: acvlab/ABot-M0-LIBERO
+VLA_JEPA,VLA-JEPA,2026-02,JEPA-style latent prediction,
+GR00T_N17,GR00T N1.7,2026-03,NVIDIA GR00T humanoid foundation models,
+FastWAM,FastWAM,2026-03,world-action model,
+starVLA,starVLA,2026-04,open VLA framework,"LIBERO runs of three variants (Qwen3-VL-PI, Qwen3-VL-OFT, Qwen2.5-VL-GR00T) are not in the fit: RoboDojo's starVLA entry is StarVLA-alpha, and RoboTwin's entry does not name its variant"
+MolmoACT2,MolmoAct2,2026-05,action reasoning model,
+G05,G0.5,2026-06,Galaxea G0.5,RoboTwin run pending
+hy_vla,Hy-Embodied-0.5-VLA,2026-06,Tencent Hy-Embodied VLA,RoboTwin run pending
+OpenDM05,DM0.5,2026-07,Dexmal DM0.5,LIBERO: lerobot/dm05_libero; RoboDojo's DM0.5 entry (not Dexbotic_DM0)
+InternVLA_A1_5,InternVLA-A1.5,2026-07,InternVLA-A1.5,LIBERO not yet in the fit
+Xiaomi_Robotics_1,Xiaomi-R1,2026-07,second-generation Xiaomi robotics foundation model,RoboDojo public; checkpoints released only for RoboCasa (original and RoboCasa365) and VLABench

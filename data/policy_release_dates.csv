@@ -1,0 +1,99 @@
+policy,paper_first_public,weights_public,source_url,note
+DP,2023-03,,https://arxiv.org/abs/2303.04137,"Diffusion Policy; a method: RoboTwin trains its own checkpoints, so no weights date"
+ACT,2023-04,,https://arxiv.org/abs/2304.13705,ACT (ALOHA paper); a method: benchmarks train their own checkpoints
+RT-1-X,2023-10,2023-10,https://arxiv.org/abs/2310.08864,Open X-Embodiment paper; RT-1-X checkpoint released with it
+Octo,2024-05,2023-12,https://arxiv.org/abs/2405.12213,"weights (rail-berkeley/octo-base, HF repo created 2023-12-13) before the paper"
+DP3,2024-03,,https://arxiv.org/abs/2403.03954,3D Diffusion Policy; a method
+OpenVLA,2024-06,2024-06,https://arxiv.org/abs/2406.09246,openvla/openvla-7b created 2024-06-10
+TinyVLA,2024-09,,https://arxiv.org/abs/2409.12514,
+RDT_1B,2024-10,2024-10,https://arxiv.org/abs/2410.07864,HF repo robotics-diffusion-transformer/rdt-1b created 2024-08-27 (before the paper; public with it)
+Pi_0,2024-10,2025-02,https://arxiv.org/abs/2410.24164,weights open-sourced in openpi on 2025-02-04
+CogACT,2024-11,2024-11,https://arxiv.org/abs/2411.19650,CogACT/CogACT-Base created 2024-11-29
+Pi0_FAST,2025-01,2025-02,https://arxiv.org/abs/2501.09747,FAST paper; pi0-FAST weights in openpi on 2025-02-04
+SpatialVLA,2025-01,2025-01,https://arxiv.org/abs/2501.15830,IPEC-COMMUNITY/spatialvla-4b-224-pt created 2025-01-26
+OpenVLA_OFT,2025-02,2025-02,https://arxiv.org/abs/2502.19645,moojink/openvla-7b-oft-* created 2025-02-25
+GR00T_N1,2025-03,2025-03,https://arxiv.org/abs/2503.14734,nvidia/GR00T-N1-2B created 2025-03-05
+GO1,2025-03,2025-09,https://arxiv.org/abs/2503.06669,AgiBot World Colosseo paper; agibot-world/GO-1 created 2025-09-04
+Pi_05,2025-04,2025-09,https://arxiv.org/abs/2504.16054,weights in openpi 2025-09 (lerobot/pi05_base created 2025-09-09)
+NORA,2025-04,2025-04,https://arxiv.org/abs/2504.19854,declare-lab/nora created 2025-04-28
+UniVLA,2025-05,2025-05,https://arxiv.org/abs/2505.06111,qwbu/univla-7b created 2025-05-06
+GR00T_N15,,2025-05,https://huggingface.co/nvidia/GR00T-N1.5-3B,no paper; nvidia/GR00T-N1.5-3B created 2025-05-28
+SmolVLA,2025-06,2025-06,https://arxiv.org/abs/2506.01844,lerobot/smolvla_base created 2025-06-01
+H_RDT,2025-07,,https://arxiv.org/abs/2507.23523,
+MolmoAct,2025-08,2025-08,https://arxiv.org/abs/2508.07917,allenai/MolmoAct-7B-D-0812 created 2025-08-09
+MemoryVLA,2025-08,,https://arxiv.org/abs/2508.19236,only if it appears in the data (DB_MemVLA is Dexbotic's)
+GalaxeaVLA,,2026-01,https://github.com/OpenGalaxea/GalaxeaVLA,"G0 line as run on RoboDojo and RoboTwin through XPolicyLab: checkpoint G0Plus_3B-base, released 2026-01-04 (weights updated 2026-02-12); the G0 paper (arXiv 2509.00576, 2025-08-30) covers the line"
+VLA_Adapter,2025-09,2025-09,https://arxiv.org/abs/2509.09372,VLA-Adapter/LIBERO-Spatial created 2025-09-02; Pro checkpoints 2025-09-22
+InternVLA_M1,2025-10,2025-09,https://arxiv.org/abs/2510.13778,InternRobotics/InternVLA-M1 created 2025-09-16 (before the paper)
+X_VLA,2025-10,2025-11,https://arxiv.org/abs/2510.10274,2toINF/X-VLA-Libero created 2025-11-05
+Pi_05_SF,2025-10,,https://arxiv.org/abs/2510.12276,Spatial Forcing on pi0.5
+GigaBrain_0,2025-10,,https://arxiv.org/abs/2510.19430,only if it appears in the data
+DB_MemVLA,2025-10,,https://arxiv.org/abs/2510.23511,Dexbotic toolbox paper (MemVLA built with it); check
+Evo1,2025-11,2025-11,https://arxiv.org/abs/2511.04555,MINT-SJTU/Evo-1 created 2025-11-06; our LIBERO run uses the third-party zuoxingdong/evo1_libero (2026-07-20)
+GR00T_N16,,2025-12,https://huggingface.co/nvidia/GR00T-N1.6-3B,no paper; nvidia/GR00T-N1.6-3B created 2025-12-01
+InternVLA_A1,2026-01,2026-01,https://arxiv.org/abs/2601.02456,InternRobotics/InternVLA-A1-3B created 2026-01-05
+LingBot_VLA,2026-01,2026-03,https://arxiv.org/abs/2601.18692,'A Pragmatic VLA Foundation Model'; robbyant/lingbot-vla-4b-posttrain-robotwin created 2026-03-09
+LingBot_VA,2026-01,2026-04,https://arxiv.org/abs/2601.21998,'Causal World Modeling for Robot Control'; robbyant/lingbot-va-posttrain-libero-long created 2026-04-24
+VLA_JEPA,2026-02,2026-05,https://arxiv.org/abs/2602.10098,lerobot/VLA-JEPA-LIBERO created 2026-05-28
+ABot_M0,2026-02,,https://arxiv.org/abs/2602.11236,
+LDA_1B,2026-02,,https://arxiv.org/abs/2602.12215,
+Xiaomi_Robotics_0,2026-02,,https://arxiv.org/abs/2602.12684,
+Dexbotic_DM0,2026-02,,https://arxiv.org/abs/2602.14974,DM0 (Dexmal)
+SimVLA,2026-02,,https://arxiv.org/abs/2602.18224,"'SimVLA: A Simple VLA Baseline for Robotic Manipulation' (not 2610.11248, a different SimVLA)"
+FastWAM,2026-03,2026-06,https://arxiv.org/abs/2603.16666,lerobot/fastwam_libero_uncond_2cam224 created 2026-06-18
+GigaWorldPolicy,2026-03,,https://arxiv.org/abs/2603.17240,'GigaWorld-Policy-0' on RoboDojo
+GR00T_N17,,2026-03,https://huggingface.co/nvidia/GR00T-N1.7-LIBERO,no paper; nvidia/GR00T-N1.7-LIBERO created 2026-03-17
+starVLA,2026-04,,https://arxiv.org/abs/2604.11757,"StarVLA-alpha ('StarVLA' on RoboDojo, Ye et al. 2026b in the RoboDojo paper); starVLA-GR00T/-OFT/-PI_v3 are later submissions built with the StarVLA codebase (arXiv 2604.05014)"
+X_WAM,2026-04,,https://arxiv.org/abs/2604.26694,'Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising'
+MolmoACT2,2026-05,2026-05,https://arxiv.org/abs/2605.02881,allenai/MolmoAct2-LIBERO created 2026-05-04
+Dexora_1B,2026-05,,https://arxiv.org/abs/2605.18722,
+AHA_WAM,2026-06,,https://arxiv.org/abs/2606.09811,
+EventVLA,2026-06,,https://arxiv.org/abs/2606.20092,
+G05,2026-06,2026-06,https://opengalaxea.github.io/G05/,"Galaxea G0.5 technical report (project page, no arXiv); OpenGalaxea/G05 created 2026-06-16; month of the report taken from the weights"
+InternVLA_A1_5,2026-07,,https://arxiv.org/abs/2607.04988,
+Xiaomi_Robotics_1,2026-07,,https://arxiv.org/abs/2607.15330,
+WorldScape_Policy_2_0,2026-07,,https://arxiv.org/abs/2607.18840,
+KinRT,2026-07,,https://arxiv.org/abs/2607.26807,
+GigaBrain_0_7,2026-08,,https://arxiv.org/abs/2608.15875,
+4D_WAM,2026-08,,https://arxiv.org/abs/2608.08023,the WAM paper (2608.10107 is a driving model of the same name)
+SimpleMemVLA,2026-09,,https://arxiv.org/abs/2609.05533,
+ME_Dex_1_0,2026-09,,https://arxiv.org/abs/2609.21449,
+PatchWAM,2026-09,,https://arxiv.org/abs/2609.25961,
+OpenDM05,2026-07,2026-07,https://raw.githubusercontent.com/dexmal/opendm/main/README.md,"DM0.5 (Dexmal) officially released 2026-07-09 (OpenDM README, technical blog); Dexmal/DM05 created 2026-07-09"
+A1,2026-04,,https://arxiv.org/abs/2604.05672,"'A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated VLA' (RoboDojo ref Zhang et al. 2026b)"
+DeepSeek-Flash,,,,"LLM-based agent baseline on RoboDojo (same evaluation function as GPT-6-Astra), not a robot policy release; leave out of the timeline"
+GPT-5.5,,,,"LLM-based agent baseline on RoboDojo (same evaluation function as GPT-6-Astra), not a robot policy release; leave out of the timeline"
+GPT-6-Astra,,,,"LLM-based agent baseline on RoboDojo (same evaluation function as GPT-6-Astra), not a robot policy release; leave out of the timeline"
+hy_vla,2026-06,,https://arxiv.org/abs/2606.14409,Hy-Embodied-0.5-VLA (Tencent)
+Liber_agent_wam,,,,"no public paper, weights or announcement found (only on the RoboDojo online leaderboard); display name 'Liber-0 Preview'"
+Liber_wam,,,,"no public paper, weights or announcement found (only on the RoboDojo online leaderboard); display name 'Liber-0 Lite'"
+Meituan_Robotics_0,,,,"no public paper, weights or announcement found (only on the RoboDojo online leaderboard); display name 'Meituan-Robotics-0'"
+OLA_Geo,,,,"RoboTwin 2.0 leaderboard entry, added 2026-09-01 (leaderboard news); no paper or weights found"
+OLA_Sem,,,,"RoboTwin 2.0 leaderboard entry, added 2026-09-01 (leaderboard news); no paper or weights found"
+OpenWAM-pi,2026-09,,https://arxiv.org/abs/2609.07398,"likely 'OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining' (arXiv 2609.07398, 2026-09-07), two days after the leaderboard added 'OpenWAM-pi' (2026-09-05); the name match is not confirmed. In the data the policy name has a garbled character (OpenWAM-π)"
+Simate-beta,,,,"no public paper, weights or announcement found (only on the RoboDojo online leaderboard); display name 'Simate-beta'"
+Spirit_v15,2026-01,2026-01,https://huggingface.co/Spirit-AI-robotics/Spirit-v1.5,Spirit AI blog 'Spirit-v1.5: Clean data is the enemy of great robot foundation models' (no arXiv); HF Spirit-AI-robotics/Spirit-v1.5 and GitHub repo created 2026-01-11
+vlact,,,,"no public paper, weights or announcement found (only on the RoboDojo online leaderboard); display name 'VLAct'"
+AMO-0.5,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found; display name 'Awomo-0.5', team Awomo"
+EWAM,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found; team 'EWAM Team'"
+EmbodiedEvo,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found"
+HWM-CogWAM,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found"
+HexaShell-preview,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found; display name 'HexaShell-Preview', team HexaFuture"
+InternW0_delta,2026-09,,https://arxiv.org/abs/2609.31394,"InternW0-Δ (Shanghai AI Lab), first seen on RoboDojo in the 2026-10-24 fetch; the paper says code and weights will be released"
+KAI,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found; display name 'PhysicalRSI', team 'HKU MMLab & KAI'"
+ME_Brain_1,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found; display name 'ME-Brain-1.0'"
+MachEmbodied-U0,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found"
+Rex_M1_preview,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found; display name 'Rex-M1 Preview'"
+VPP2,2026-10,,https://technode.global/prnasia/robotera-tops-embodied-ai-benchmark-robodojo-without-additional-data-or-agent-rsi/,Video Prediction Policy 2 (RobotEra); press release 2026-10-09 says it is open-sourced on GitHub (not checked); successor of VPP (arXiv 2412.14803)
+VPP2-Preview,2026-10,,https://technode.global/prnasia/robotera-tops-embodied-ai-benchmark-robodojo-without-additional-data-or-agent-rsi/,preview version of VPP2 (RobotEra) on the RoboDojo leaderboard
+WorldScape-R²SI,,,,"only on the RoboDojo online leaderboard (first seen in the 2026-10-24 fetch, not in the 2026-09-23 one); no paper, weights or announcement found; team ManiFold AI (WorldScape Policy 2.0 is arXiv 2607.18840)"
+CloudRobo_WM,,,,RoboTwin 2.0 leaderboard entry listed 2026-10-19 by CloudRobo Team; no paper or weights found
+Discrete_Forcing,,,,RoboTwin 2.0 leaderboard entry listed 2026-10-10 by OpenHelix Team; no paper or weights found
+MWA_Phoenix,,,,RoboTwin 2.0 leaderboard entry listed 2026-10-21 by Anyverse & OpenPhoenix; no paper or weights found
+PrismWAM,,,,RoboTwin 2.0 leaderboard entry listed 2026-10-23 by THU & NVIDIA; no paper or weights found (uses depth)
+PrismWAM_Star,,,,RoboTwin 2.0 leaderboard entry listed 2026-10-23 by THU & NVIDIA; no paper or weights found; display name 'PrismWAM*' (uses depth)
+UniWAM,,,,RoboTwin 2.0 leaderboard entry listed 2026-09-01 by OLA-HKUSTGZ; no paper or weights found; HF chenpyyy/UniWAM-* checkpoints created 2026-10
+ViGAR,,,,RoboTwin 2.0 leaderboard entry listed 2026-10-11 by PKU DAGroup & AGIBOT; no paper or weights found
+WorldLA,,,,RoboTwin 2.0 leaderboard entry listed 2026-10-24 by ISCAS; no paper or weights found
+RT_1,2022-12,2024-05,https://arxiv.org/abs/2212.06817,RT-1 (Google); the RT-1-Converged checkpoint rt_1_tf_trained_for_000400120 is the one SimplerEnv's README distributes (gs://gdm-robotics-open-x-embodiment)
+ECoT,2024-07,2024-07,https://arxiv.org/abs/2407.08693,Embodied Chain-of-Thought (OpenVLA fine-tuned on Bridge with reasoning); HF Embodied-CoT/ecot-openvla-7b-bridge
