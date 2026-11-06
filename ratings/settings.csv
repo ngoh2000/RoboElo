@@ -1,0 +1,7 @@
+setting,a,a_lo,a_hi,anchors
+robodojo,1.519,1.349,1.673,"Pi_0, Pi_05, X_VLA"
+libero,0.92,0.822,0.966,"GR00T_N17, OpenVLA_OFT, Pi_0, Pi_05, SmolVLA, X_VLA"
+robotwin2/easy,0.902,0.819,1.004,"ACT, Pi_0, Pi_05, X_VLA"
+robotwin2/hard,0.902,0.819,1.004,"ACT, Pi_0, Pi_05, X_VLA"
+simplerenv/google,0.793,0.727,0.977,"GR00T_N17, X_VLA, MolmoAct, OpenVLA, VLA_JEPA"
+simplerenv/widowx,0.793,0.727,0.977,"GR00T_N17, X_VLA, OpenVLA, UniVLA, VLA_JEPA"
