@@ -1,0 +1,13 @@
+{"run_id": "20261017_091512", "model": "pi0_replan5", "checkpoint": "~/roboelo/checkpoints/pi0-libero-lerobot", "checkpoint_label": "lerobot/pi0_libero_finetuned_v044",
+ "runner": "run_lerobot_libero.py (LeRobot policy, processors, LIBERO env and rollout loop)", "worker_script": "~/roboelo/scripts/run_lerobot_libero.py",
+ "extra_lerobot_eval_flags": "--policy.compile_model=false --policy.n_action_steps=5", "extra_worker_env": "", "suite_groups": "libero_spatial libero_object;libero_goal libero_10:0-3;libero_10:4-9", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 1000, "env_seed": "seed + initial state id",
+ "num_steps_wait": 10, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "n_action_steps=5 instead of the checkpoint's 50, as in openpi's LIBERO evaluation (replan every 5 steps).",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "0", "workers": 3, "under_gdb": "1",
+ "python": "~/roboelo/envs/lerobot-mujoco332/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config_lerobot", "code_repo": "~/roboelo/third_party/lerobot",
+ "code_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

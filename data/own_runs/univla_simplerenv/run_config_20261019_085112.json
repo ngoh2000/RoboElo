@@ -1,0 +1,6 @@
+{"run_id": "20261019_085112", "model": "univla", "checkpoint_label": "qwbu/univla-7b-224-sft-simpler-bridge",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "widowx", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 96,
+ "factory": "~/roboelo/scripts/simpler_policies.py:univla", "policy_kwargs": "{\"ckpt\": \"~/roboelo/checkpoints/univla-7b-224-sft-simpler-bridge\"}", "workers": 1, "gpu": "1",
+ "python": "~/roboelo/envs/simpler-univla/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "note": "UniVLA SimplerEnv-Bridge checkpoint, UniVLABridgeInference (action_scale 1, pred_action_horizon 10) on the official SimplerEnv WidowX episodes; UniVLA's own script uses the ManiSkill3 port."}

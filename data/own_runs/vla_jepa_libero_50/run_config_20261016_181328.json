@@ -1,0 +1,13 @@
+{"run_id": "20261016_181328", "model": "vla_jepa", "checkpoint": "~/roboelo/checkpoints/vla-jepa-libero-lerobot-local", "checkpoint_label": "lerobot/VLA-JEPA-LIBERO",
+ "runner": "run_lerobot_libero.py (LeRobot policy, processors, LIBERO env and rollout loop)", "worker_script": "~/roboelo/scripts/run_lerobot_libero.py",
+ "extra_lerobot_eval_flags": "", "extra_worker_env": "", "suite_groups": "libero_spatial libero_object;libero_goal libero_10:0-3;libero_10:4-9", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 1000, "env_seed": "seed + initial state id",
+ "num_steps_wait": 10, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "LeRobot port (lerobot org) of VLA-JEPA, run as the LeRobot vla_jepa docs' lerobot-eval command (no overrides): chunk 7 / n_action_steps 7, 4 flow-matching steps, LeRobot's 360 px observations resized to 224 by the processor, step limits 280/280/300/520, 10 no-op steps. The docs report 95/100/98/93 on 100 episodes per suite. Qwen3-VL-2B-Instruct and facebook/vjepa2-vitl-fpc64-256 read from local folders.",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "0", "workers": 3, "under_gdb": "1",
+ "python": "~/roboelo/envs/lerobot-mujoco332/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config_lerobot", "code_repo": "~/roboelo/third_party/lerobot",
+ "code_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

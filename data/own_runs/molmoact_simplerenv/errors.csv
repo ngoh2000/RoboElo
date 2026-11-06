@@ -1,0 +1,9 @@
+episode_index,attempt,time,error
+1972,1,2026-10-24T06:26:06.214381,RuntimeError: vk::Queue::submit: ErrorDeviceLost
+1972,1,2026-10-24T06:26:49.074542,RuntimeError: vk::Device::waitForFences: ErrorDeviceLost
+1972,1,2026-10-24T06:27:19.031660,RuntimeError: vk::Queue::submit: ErrorDeviceLost
+1972,1,2026-10-24T06:27:49.338295,RuntimeError: vk::Device::waitForFences: ErrorDeviceLost
+1979,1,2026-10-24T12:06:29.346954,RuntimeError: vk::Device::waitForFences: ErrorDeviceLost
+1979,1,2026-10-24T12:07:02.368224,RuntimeError: vk::Queue::submit: ErrorDeviceLost
+1979,1,2026-10-24T12:07:27.395262,RuntimeError: vk::Queue::submit: ErrorDeviceLost
+1979,1,2026-10-24T12:07:57.431653,RuntimeError: vk::Queue::submit: ErrorDeviceLost

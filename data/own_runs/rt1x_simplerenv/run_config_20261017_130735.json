@@ -1,0 +1,6 @@
+{"run_id": "20261017_130735", "model": "rt1x", "checkpoint_label": "rt_1_x_tf_trained_for_002272480_step",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "google_robot,widowx", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 2952,
+ "factory": "~/roboelo/scripts/simpler_policies.py:rt1", "policy_kwargs": "{\"ckpt\": \"~/roboelo/checkpoints/rt1x/rt_1_x_tf_trained_for_002272480_step\"}", "workers": 2, "gpu": "0",
+ "python": "~/roboelo/envs/simpler-tf/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "note": "RT-1-X checkpoint rt_1_x_tf_trained_for_002272480_step (SimplerEnv README / scripts), SimplerEnv's own RT1Inference; TensorFlow 2.15 on the CPU (no RTX 5090 kernels), rendering on the GPU. Resumed 2026-10-17 after a Vulkan device-lost crash (GPU memory full)."}

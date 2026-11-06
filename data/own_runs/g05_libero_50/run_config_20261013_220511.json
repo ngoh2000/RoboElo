@@ -1,0 +1,8 @@
+{"run_id": "20261013_220511", "model": "G0.5 (GalaxeaVLA)", "checkpoint": "OpenGalaxea/G05 g05-libero", "suites": "libero_spatial libero_object libero_goal libero_10",
+ "num_trials_per_task": 50, "initial_states": "LIBERO fixed initial states 0..N-1",
+ "num_steps_wait": 20, "env_seed": 7, "action_steps": 10, "ensemble": false, "env_resolution": 256,
+ "max_steps": "spatial 220, object 280, goal 300, libero_10 520", "clients_per_suite": 2,
+ "server_batching": "max_batch_size 8, max_wait_ms 50", "device": "cuda", "gpu": "1",
+ "server_under_gdb": "1",
+ "vision_attention": "PyTorch scaled_dot_product_attention (GalaxeaVLA's fallback; FlashAttention-4 does not compile on the RTX 5090)", "galaxeavla_commit": "89f2322b4ad016e192437adc1a2c253b05bab246",
+ "libero_commit": "8f1084e3132a39270c3a13ebe37270a43ece2a01"}

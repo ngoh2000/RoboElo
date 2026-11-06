@@ -1,0 +1,8 @@
+{"run_id": "20261029_001743", "model": "internvla_m1", "checkpoint_label": "InternRobotics/InternVLA-M1-Pretrain-RT-1-Bridge",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "widowx", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 96,
+ "factory": "~/roboelo/scripts/simpler_policies.py:internvla_m1", "policy_kwargs": "{\"ckpt\": \"~/roboelo/checkpoints/InternVLA-M1-Pretrain-RT-1-Bridge/checkpoints/steps_50000_pytorch_model.pt\", \"port\": 18825}", "workers": 2, "gpu": "1",
+ "shards": "0,1 of 2",
+ "python": "~/roboelo/envs/simpler-hf440/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "policy_server": "~/roboelo/envs/internvla-m1/bin/python ~/roboelo/scripts/starvla_server_launcher.py deployment/model_server/server_policy_M1.py --ckpt_path ~/roboelo/checkpoints/InternVLA-M1-Pretrain-RT-1-Bridge/checkpoints/steps_50000_pytorch_model.pt --port 18825 --use_bf16",
+ "policy_server_cwd": "~/roboelo/third_party/InternVLA-M1", "note": "InternVLA-M1-Pretrain-RT-1-Bridge in InternVLA-M1's server_policy_M1.py (starvla_server_launcher.py: base VLM InternRobotics/InternVLA-M1 built from its config, weights from the checkpoint); client = its own M1Inference (start_simpler_env.py settings: cfg_scale 1.5, action ensembling). Official SimplerEnv episodes, step limits and success at the last step (its WidowX script allows 120 steps on every task)"}

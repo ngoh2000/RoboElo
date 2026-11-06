@@ -1,0 +1,107 @@
+{
+  "type": "vla_jepa",
+  "n_obs_steps": 1,
+  "input_features": {
+    "observation.images.image": {
+      "type": "VISUAL",
+      "shape": [
+        3,
+        224,
+        224
+      ]
+    },
+    "observation.images.image2": {
+      "type": "VISUAL",
+      "shape": [
+        3,
+        224,
+        224
+      ]
+    },
+    "observation.state": {
+      "type": "STATE",
+      "shape": [
+        8
+      ]
+    }
+  },
+  "output_features": {
+    "action": {
+      "type": "ACTION",
+      "shape": [
+        7
+      ]
+    }
+  },
+  "device": null,
+  "use_amp": false,
+  "use_peft": false,
+  "push_to_hub": true,
+  "repo_id": null,
+  "private": null,
+  "tags": null,
+  "license": null,
+  "pretrained_path": null,
+  "chunk_size": 7,
+  "n_action_steps": 7,
+  "normalization_mapping": {
+    "VISUAL": "IDENTITY",
+    "STATE": "MEAN_STD",
+    "ACTION": "MIN_MAX"
+  },
+  "qwen_model_name": "~/roboelo/checkpoints/Qwen3-VL-2B-Instruct",
+  "jepa_encoder_name": "~/roboelo/checkpoints/vjepa2-vitl-fpc64-256",
+  "freeze_qwen": false,
+  "enable_world_model": true,
+  "reinit_modules": null,
+  "tokenizer_padding_side": "left",
+  "prompt_template": "Your task is {instruction}. Infer the temporal dynamics from frames {actions} and produce the corresponding policy actions {e_actions}.",
+  "special_action_token": "<|action_{}|>",
+  "embodied_action_token": "<|embodied_action|>",
+  "action_dim": 7,
+  "state_dim": 8,
+  "num_action_tokens_per_timestep": 8,
+  "num_embodied_action_tokens_per_instruction": 32,
+  "num_inference_timesteps": 4,
+  "action_hidden_size": 1024,
+  "action_model_type": "DiT-B",
+  "action_num_layers": 16,
+  "action_num_heads": 12,
+  "action_attention_head_dim": 64,
+  "action_dropout": 0.2,
+  "action_num_timestep_buckets": 1000,
+  "action_noise_beta_alpha": 1.5,
+  "action_noise_beta_beta": 1.0,
+  "action_noise_s": 0.999,
+  "num_target_vision_tokens": 32,
+  "action_max_seq_len": 1024,
+  "num_video_frames": 8,
+  "predictor_depth": 12,
+  "predictor_num_heads": 8,
+  "predictor_mlp_ratio": 4.0,
+  "predictor_dropout": 0.0,
+  "world_model_loss_weight": 0.1,
+  "jepa_tubelet_size": 2,
+  "repeated_diffusion_steps": 8,
+  "resize_images_to": [
+    224,
+    224
+  ],
+  "binarize_gripper_action": true,
+  "pre_snap_gripper_action": true,
+  "clip_normalized_actions": true,
+  "torch_dtype": "bfloat16",
+  "optimizer_lr": 0.0001,
+  "optimizer_betas": [
+    0.9,
+    0.95
+  ],
+  "optimizer_eps": 1e-08,
+  "optimizer_weight_decay": 1e-08,
+  "optimizer_grad_clip_norm": 1.0,
+  "scheduler_warmup_steps": 5000,
+  "scheduler_decay_steps": 30000,
+  "scheduler_decay_lr": 1e-06,
+  "gripper_dim": 6,
+  "gripper_threshold": 0.5
+}

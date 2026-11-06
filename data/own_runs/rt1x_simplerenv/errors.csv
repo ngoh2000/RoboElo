@@ -1,0 +1,52 @@
+episode_index,attempt,time,error
+1887,1,2026-10-17T03:19:51.580656,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1887,2,2026-10-17T03:19:52.020828,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1887,3,2026-10-17T03:19:52.411357,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1889,1,2026-10-17T03:19:52.842234,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1889,2,2026-10-17T03:19:53.162240,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1889,3,2026-10-17T03:19:53.509375,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1891,1,2026-10-17T03:19:53.775520,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1891,2,2026-10-17T03:19:54.089049,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1891,3,2026-10-17T03:19:54.459622,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1893,1,2026-10-17T03:19:54.886942,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1893,2,2026-10-17T03:19:55.143511,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1893,3,2026-10-17T03:19:55.457210,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1895,1,2026-10-17T03:19:55.794294,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1895,2,2026-10-17T03:19:56.102005,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1895,3,2026-10-17T03:19:56.418712,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1897,1,2026-10-17T03:19:56.731698,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1897,2,2026-10-17T03:19:57.037987,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1897,3,2026-10-17T03:19:57.282930,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1899,1,2026-10-17T03:19:57.605098,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1899,2,2026-10-17T03:19:57.986566,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1899,3,2026-10-17T03:19:58.366075,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1901,1,2026-10-17T03:19:58.700952,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1901,2,2026-10-17T03:19:58.984365,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1901,3,2026-10-17T03:19:59.253446,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1903,1,2026-10-17T03:19:59.592378,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1903,2,2026-10-17T03:19:59.897977,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1903,3,2026-10-17T03:20:00.204479,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1905,1,2026-10-17T03:20:00.550781,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1905,2,2026-10-17T03:20:00.818511,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1905,3,2026-10-17T03:20:01.079125,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1907,1,2026-10-17T03:20:01.343388,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1907,2,2026-10-17T03:20:01.588918,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1907,3,2026-10-17T03:20:01.879884,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1909,1,2026-10-17T03:20:02.244173,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1909,2,2026-10-17T03:20:02.511548,RuntimeError: vk::PhysicalDevice::createDeviceUnique: ErrorInitializationFailed
+1909,3,2026-10-17T03:20:05.795561,RuntimeError: cannot create buffer
+1886,1,2026-10-17T03:24:25.529278,RuntimeError: cannot create buffer
+1886,2,2026-10-17T03:24:28.538950,RuntimeError: cannot create buffer
+1886,3,2026-10-17T03:24:32.007035,RuntimeError: cannot create buffer
+1888,1,2026-10-17T03:24:35.067466,RuntimeError: cannot create buffer
+1888,2,2026-10-17T03:24:38.806297,RuntimeError: cannot create buffer
+1888,3,2026-10-17T03:24:41.887991,RuntimeError: cannot create buffer
+1892,1,2026-10-17T03:26:04.756763,RuntimeError: cannot create buffer
+1931,1,2026-10-17T03:32:36.399182,RuntimeError: cannot create buffer
+1931,2,2026-10-17T03:32:38.515019,RuntimeError: cannot create buffer
+1941,1,2026-10-17T03:37:24.504898,RuntimeError: cannot create buffer
+1966,1,2026-10-17T04:08:00.731578,RuntimeError: vk::Device::waitForFences: ErrorDeviceLost
+1965,1,2026-10-17T04:11:57.701147,RuntimeError: vk::Queue::submit: ErrorDeviceLost
+1965,1,2026-10-17T04:12:45.381320,RuntimeError: vk::Queue::submit: ErrorDeviceLost
+1965,1,2026-10-17T04:13:15.442543,RuntimeError: vk::Queue::submit: ErrorDeviceLost
+1965,1,2026-10-17T04:13:47.559238,RuntimeError: vk::Queue::submit: ErrorDeviceLost
