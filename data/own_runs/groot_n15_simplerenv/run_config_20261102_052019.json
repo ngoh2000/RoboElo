@@ -1,0 +1,8 @@
+{"run_id": "20261102_052019", "model": "groot_n15", "checkpoint_label": "youliangtan/gr00t-n1.5-fractal-posttrain",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "google_robot", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 2856,
+ "factory": "~/roboelo/scripts/simpler_policies.py:gr00t_n15", "policy_kwargs": "{\"port\": 18632}", "workers": 3, "gpu": "0",
+ "shards": "0,1,2 of 3",
+ "python": "~/roboelo/envs/simpler-hf440/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "policy_server": "~/roboelo/envs/groot-n15/bin/python scripts/inference_service.py --model_path ~/roboelo/checkpoints/gr00t-n1.5-fractal-posttrain --server --data_config examples.SimplerEnv.custom_data_config:FractalDataConfig --denoising-steps 8 --port 18632 --embodiment-tag new_embodiment",
+ "policy_server_cwd": "~/roboelo/third_party/Isaac-GR00T-n1.5", "note": "GR00T N1.5 fractal post-train checkpoint linked by Isaac-GR00T n1.5-release examples/SimplerEnv/README.md, in its scripts/inference_service.py with the README flags (FractalDataConfig, 8 denoising steps, new_embodiment); client gr00t_n15 = eval_simpler.py of NVIDIA SimplerEnv fork (one query per step, first action of each chunk)."}

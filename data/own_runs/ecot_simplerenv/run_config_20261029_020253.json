@@ -1,0 +1,8 @@
+{"run_id": "20261029_020253", "model": "ecot", "checkpoint_label": "Embodied-CoT/ecot-openvla-7b-bridge",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "widowx", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 96,
+ "factory": "~/roboelo/scripts/simpler_policies.py:ecot", "policy_kwargs": "{\"ckpt\": \"~/roboelo/checkpoints/ecot-openvla-7b-bridge\"}", "workers": 1, "gpu": "0",
+ "shards": "0 of 1",
+ "python": "~/roboelo/envs/simpler-hf440/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "policy_server": "",
+ "policy_server_cwd": "~/roboelo", "note": "ECoT (Embodied-CoT/ecot-openvla-7b-bridge), simpler_policies.ECoTSimplerPolicy: the README's Hugging Face quickstart (reasoning prompt, max_new_tokens 1024, greedy, unnorm_key bridge_orig), image as ECoT's Bridge evaluation (256 then 224, LANCZOS), actions as the OpenVLA SimplerEnv adapter. Official SimplerEnv WidowX episodes"}

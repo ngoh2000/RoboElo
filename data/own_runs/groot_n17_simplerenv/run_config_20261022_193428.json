@@ -1,0 +1,7 @@
+{"run_id": "20261022_193428", "model": "groot_n17", "checkpoint_label": "nvidia/GR00T-N1.7-SimplerEnv-Fractal",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "google_robot", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 2856,
+ "factory": "~/roboelo/scripts/simpler_policies.py:gr00t", "policy_kwargs": "{\"port\": 18612, \"n_action_steps\": 1}", "workers": 1, "gpu": "0",
+ "python": "~/roboelo/envs/simpler-hf440/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "policy_server": "~/roboelo/third_party/Isaac-GR00T/.venv/bin/python gr00t/eval/run_gr00t_server.py --model-path ~/roboelo/checkpoints/GR00T-N1.7-SimplerEnv-Fractal --embodiment-tag SIMPLER_ENV_GOOGLE --use-sim-policy-wrapper --device cuda --host 127.0.0.1 --port 18612",
+ "policy_server_cwd": "~/roboelo/third_party/Isaac-GR00T", "note": "GR00T N1.7 SimplerEnv-Fractal checkpoint in GR00T's own server (embodiment SIMPLER_ENV_GOOGLE); client = simpler_policies.Gr00tSimplerPolicy (256x320 image, eef state with xyzw quaternion and gripper closedness, sticky relative gripper 15 repeats) with n_action_steps 1 as in GR00T's README. Official SimplerEnv episodes (VM + VA), step limits and success at the last step; GR00T's own client allows 300 steps and stops at the first success."}

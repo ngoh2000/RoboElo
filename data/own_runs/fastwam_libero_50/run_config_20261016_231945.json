@@ -1,0 +1,13 @@
+{"run_id": "20261016_231945", "model": "fastwam", "checkpoint": "~/roboelo/checkpoints/fastwam-libero-lerobot-local", "checkpoint_label": "lerobot/fastwam_libero_uncond_2cam224",
+ "runner": "run_lerobot_libero.py (LeRobot policy, processors, LIBERO env and rollout loop)", "worker_script": "~/roboelo/scripts/run_lerobot_libero.py",
+ "extra_lerobot_eval_flags": "--policy.n_action_steps=10 --env.observation_height=256 --env.observation_width=256", "extra_worker_env": "ROBOELO_LOAD_WEIGHTS_ON_CPU=1", "suite_groups": "libero_spatial libero_object libero_goal libero_10", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 1000, "env_seed": "seed + initial state id",
+ "num_steps_wait": 10, "episode_lengths": "libero_spatial=300,libero_object=300,libero_goal=300,libero_10=600",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "LeRobot port (lerobot org) of FastWAM, run as the reproduce command of LeRobot's fastwam docs: n_action_steps 10 (chunk 32), 256 px observations, step limits 300 (spatial/object/goal) and 600 (libero_10), toggle_action_dimensions [-1] from the checkpoint. Differences: bfloat16 (the checkpoint's torch_dtype) instead of the docs' float32, which does not fit a 32 GB GPU; seed 1000+init instead of 0. The docs report 97.6/99.0/95.0/94.0. The original FastWAM evaluation (yuantianyuan01/FastWAM) uses 30 no-op steps and 400/700 steps. Wan2.2 VAE, UMT5-XXL encoder and tokenizer read from local copies of Wan-AI/Wan2.2-TI2V-5B-Diffusers and google/umt5-xxl.",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "1", "workers": 1, "under_gdb": "1",
+ "python": "~/roboelo/envs/lerobot-mujoco332/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config_lerobot", "code_repo": "~/roboelo/third_party/lerobot",
+ "code_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

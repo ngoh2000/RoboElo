@@ -1,0 +1,7 @@
+{"run_id": "20261023_002339", "model": "groot_n16", "checkpoint_label": "nvidia/GR00T-N1.6-fractal",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "google_robot", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 2856,
+ "factory": "~/roboelo/scripts/simpler_policies.py:gr00t", "policy_kwargs": "{\"port\": 18614, \"n_action_steps\": 1}", "workers": 1, "gpu": "1",
+ "python": "~/roboelo/envs/simpler-hf440/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "policy_server": "~/roboelo/envs/groot-n16/bin/python gr00t/eval/run_gr00t_server.py --model-path ~/roboelo/checkpoints/GR00T-N1.6-fractal --embodiment-tag OXE_GOOGLE --use-sim-policy-wrapper --device cuda --host 127.0.0.1 --port 18614",
+ "policy_server_cwd": "~/roboelo/third_party/Isaac-GR00T-n1.6", "note": "GR00T N1.6 fractal checkpoint (Gr00tN1d6) in the n1.6.1-release server, embodiment OXE_GOOGLE as in the N1.6 README; same client and settings as groot_n17_simpler_google (n_action_steps 1)."}

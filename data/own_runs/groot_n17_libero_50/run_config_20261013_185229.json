@@ -1,0 +1,7 @@
+{"run_id": "20261013_185229", "model": "GR00T N1.7", "checkpoint": "~/roboelo/checkpoints/GR00T-N1.7-LIBERO/<suite>", "suites": "libero_spatial libero_object libero_goal libero_10",
+ "num_trials_per_task": 50, "initial_states": "LIBERO fixed initial states 0..N-1",
+ "num_steps_wait": 10, "env_seed": 7, "policy_seed": "none (as in GR00T's instructions)",
+ "max_episode_steps": 720, "n_action_steps": 8, "clients_per_suite": 5,
+ "device": "cuda", "gpu": "1", "server_under_gdb": "1",
+ "gr00t_commit": "51d4c89f72fda44cbf77285c6a8114b52676b8a1",
+ "libero_commit": "8f1084e3132a39270c3a13ebe37270a43ece2a01"}

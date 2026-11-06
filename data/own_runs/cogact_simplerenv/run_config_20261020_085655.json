@@ -1,0 +1,6 @@
+{"run_id": "20261020_085655", "model": "cogact", "checkpoint_label": "CogACT/CogACT-Base",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "google_robot,widowx", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 2952,
+ "factory": "~/roboelo/scripts/simpler_policies.py:cogact", "policy_kwargs": "{\"ckpt\": \"~/roboelo/checkpoints/CogACT-Base/checkpoints/CogACT-Base.pt\", \"action_model_type\": \"DiT-B\"}", "workers": 1, "gpu": "1",
+ "python": "~/roboelo/envs/simpler-hf440/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "note": "CogACT-Base, the CogACTInference adapter of DelinQu/SimplerEnv-OpenVLA (copied from CogACT sim_cogact: cfg_scale 1.5, DDIM 10 steps, adaptive action ensemble), action_model_type DiT-B as the CogACT README says for the Base model, on the official SimplerEnv episode list (2952 episodes). Env envs/simpler-hf440 + SAPIEN 2.2.2; Llama-2 config/tokenizer and timm backbones from hf_cache, offline."}

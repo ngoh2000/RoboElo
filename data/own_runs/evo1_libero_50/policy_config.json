@@ -1,0 +1,103 @@
+{
+  "type": "evo1",
+  "n_obs_steps": 1,
+  "input_features": {
+    "observation.images.image": {
+      "type": "VISUAL",
+      "shape": [
+        3,
+        256,
+        256
+      ]
+    },
+    "observation.images.image2": {
+      "type": "VISUAL",
+      "shape": [
+        3,
+        256,
+        256
+      ]
+    },
+    "observation.state": {
+      "type": "STATE",
+      "shape": [
+        8
+      ]
+    }
+  },
+  "output_features": {
+    "action": {
+      "type": "ACTION",
+      "shape": [
+        7
+      ]
+    }
+  },
+  "device": "cuda",
+  "use_amp": true,
+  "use_peft": false,
+  "push_to_hub": false,
+  "repo_id": null,
+  "private": null,
+  "tags": null,
+  "license": null,
+  "pretrained_path": null,
+  "pretrained_revision": null,
+  "training_stage": "stage2",
+  "chunk_size": 50,
+  "n_action_steps": 50,
+  "max_state_dim": 24,
+  "max_action_dim": 24,
+  "max_views": 3,
+  "image_resolution": [
+    448,
+    448
+  ],
+  "empty_cameras": 0,
+  "postprocess_action_dim": null,
+  "binarize_gripper": false,
+  "gripper_index": 6,
+  "gripper_threshold": 0.5,
+  "gripper_below_threshold_value": 1.0,
+  "gripper_above_threshold_value": -1.0,
+  "normalization_mapping": {
+    "VISUAL": "IDENTITY",
+    "STATE": "MIN_MAX",
+    "ACTION": "MIN_MAX"
+  },
+  "vlm_model_name": "~/roboelo/checkpoints/InternVL3-1B-hf",
+  "vlm_num_layers": 14,
+  "vlm_dtype": "float32",
+  "max_text_length": 1024,
+  "use_flash_attn": true,
+  "action_head": "flowmatching",
+  "embed_dim": 896,
+  "hidden_dim": 1024,
+  "state_hidden_dim": 1024,
+  "num_heads": 8,
+  "num_layers": 8,
+  "dropout": 0.2,
+  "num_inference_timesteps": 32,
+  "num_categories": 1,
+  "return_cls_only": false,
+  "enable_gradient_checkpointing": true,
+  "gradient_checkpointing_use_reentrant": false,
+  "finetune_vlm": true,
+  "finetune_language_model": true,
+  "finetune_vision_model": true,
+  "finetune_action_head": true,
+  "apply_training_stage_defaults": true,
+  "task_field": "task",
+  "embodiment_id_field": null,
+  "default_embodiment_id": 0,
+  "rtc_config": null,
+  "optimizer_lr": 1e-05,
+  "optimizer_betas": [
+    0.9,
+    0.999
+  ],
+  "optimizer_eps": 1e-08,
+  "optimizer_weight_decay": 0.001,
+  "optimizer_grad_clip_norm": 1.0,
+  "scheduler_warmup_steps": 1000
+}

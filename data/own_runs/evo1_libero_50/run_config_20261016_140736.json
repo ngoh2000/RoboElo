@@ -1,0 +1,13 @@
+{"run_id": "20261016_140736", "model": "evo1", "checkpoint": "~/roboelo/checkpoints/evo1-libero-local", "checkpoint_label": "zuoxingdong/evo1_libero",
+ "runner": "run_lerobot_libero.py (LeRobot policy, processors, LIBERO env and rollout loop)", "worker_script": "~/roboelo/scripts/run_lerobot_libero.py",
+ "extra_lerobot_eval_flags": "--policy.use_amp=true --policy.vlm_dtype=bfloat16 --policy.use_flash_attn=false --policy.enable_gradient_checkpointing=false --policy.n_action_steps=14 --policy.num_inference_timesteps=32 --policy.postprocess_action_dim=7 --policy.binarize_gripper=true --policy.gripper_threshold=0.0 --policy.gripper_below_threshold_value=-1.0 --policy.gripper_above_threshold_value=1.0 --env.camera_name_mapping={\"agentview_image\":\"image\",\"robot0_eye_in_hand_image\":\"image2\"} --env.observation_width=448 --env.observation_height=448", "suite_groups": "libero_spatial libero_object libero_10:0-1;libero_goal libero_10:2-9", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 1000, "env_seed": "seed + initial state id",
+ "num_steps_wait": 10, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "Third-party checkpoint zuoxingdong/evo1_libero (Xingdong Zuo, trained with LeRobot's two-stage EVO1 recipe), not the Evo-1 authors' MINT-SJTU/Evo1_LIBERO (which needs their own server). Flags exactly as the lerobot-eval command of its model card, whose protocol is ours (seed 1000, initial states 0-49, step limits 280/280/300/520): replan every 14 actions, 32 denoising steps, 448 px, bf16 VLM, no flash-attn, gripper binarized at 0. Model card: 485/496/483/469 = 96.65%. LeRobot commit 30da8e68 (2026-07-06) instead of the card's e40b58a8 (2026-07-08). InternVL3-1B-hf read from a local folder.",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "0", "workers": 2, "under_gdb": "1",
+ "python": "~/roboelo/envs/lerobot-mujoco332/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config_lerobot", "code_repo": "~/roboelo/third_party/lerobot",
+ "code_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}
