@@ -1,0 +1,8 @@
+{"run_id": "20261028_230139", "model": "xiaomi_r0", "checkpoint_label": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "google_robot", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 2856,
+ "factory": "~/roboelo/scripts/simpler_policies.py:xiaomi_r0", "policy_kwargs": "{\"port\": 18843}", "workers": 4, "gpu": "0",
+ "shards": "0,1,2,3 of 4",
+ "python": "~/roboelo/envs/simpler-hf440/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "policy_server": "~/roboelo/envs/xiaomi-r0/bin/python ~/roboelo/scripts/xiaomi_policy_server.py --model ~/roboelo/checkpoints/Xiaomi-Robotics-0-SimplerEnv-Google-Robot --port 18843",
+ "policy_server_cwd": "~/roboelo", "note": "Xiaomi-Robotics-0-SimplerEnv-Google-Robot in scripts/xiaomi_policy_server.py; client = simpler_policies.XiaomiR0SimplerPolicy with the functions of Xiaomi's eval_simplerenv/main.py (image size and 0.95 crop, prompt, eef state as in allenzren's SimplerEnv fork, 4 actions per query, gripper post-processing). Official SimplerEnv episodes, step limits and success at the last step (Xiaomi's client stops at the first success; its WidowX list repeats each episode 6 times)"}
