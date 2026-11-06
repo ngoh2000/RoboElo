@@ -1,0 +1,6 @@
+{"run_id": "20261017_133640", "model": "openvla", "checkpoint_label": "openvla/openvla-7b",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "google_robot,widowx", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 2952,
+ "factory": "~/roboelo/scripts/simpler_policies.py:openvla", "policy_kwargs": "{\"ckpt\": \"~/roboelo/checkpoints/openvla-7b\"}", "workers": 1, "gpu": "1",
+ "python": "~/roboelo/envs/simpler-hf440/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "note": "OpenVLA-7B zero-shot, the OpenVLAInference adapter of DelinQu/SimplerEnv-OpenVLA (unnorm_key bridge_orig / fractal20220817_data, sticky gripper as in the adapter), on the official SimplerEnv episode list (the fork's task scripts expand to the same 2952 episodes). Env envs/simpler-hf440 (venv on roboelo-libero: transformers 4.40.1, flash-attn, torch 2.7.1+cu128) + SAPIEN 2.2.2."}

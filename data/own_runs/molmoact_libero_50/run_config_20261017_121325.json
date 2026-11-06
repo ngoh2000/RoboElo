@@ -1,0 +1,13 @@
+{"run_id": "20261017_121325", "model": "molmoact", "checkpoint": "~/roboelo/checkpoints/MolmoAct-7B-D-LIBERO-Spatial-0812", "checkpoint_label": "allenai/MolmoAct-7B-D-LIBERO-{Suite}-0812",
+ "runner": "run_molmoact_libero.py: the loop of molmoact experiments/libero/run_libero_eval.py (Hugging Face inference; its step() and gripper functions imported)", "worker_script": "~/roboelo/scripts/run_molmoact_libero.py",
+ "extra_lerobot_eval_flags": "--seed 7", "extra_worker_env": "", "suite_groups": "libero_spatial libero_object libero_10:0-4", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 7, "env_seed": "env.seed(0) in get_libero_env; seed 7 at the start of every task",
+ "num_steps_wait": 10, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "Official MolmoAct LIBERO settings of the Hugging Face script: per-suite checkpoint, bfloat16, agentview + wrist images with 90 percent center crop, depth + trace + action generation (max 512 new tokens), unnorm_key libero_<suite>_no_noops_modified, whole action matrix executed per query, an unparsable output executes one zero action, 10 no-op steps, max steps 220/280/300/520, seed 7. The README replicates its numbers with vLLM 0.8.5, which has no RTX 5090 kernels. Checkpoints stored as bf16 (loaded as bf16 anyway). Env envs/molmoact (venv on roboelo-libero, transformers 4.52.1, torch 2.7.1+cu128, MuJoCo 3.3.2); Qwen/Qwen2-7B tokenizer (used by parse_action) cached for offline use.",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "0", "workers": 1, "under_gdb": "1",
+ "python": "~/roboelo/envs/molmoact/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config", "code_repo": "~/roboelo/third_party/molmoact",
+ "code_commit": "a5cf9808a4017f7f814772f57706324f0338642c",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

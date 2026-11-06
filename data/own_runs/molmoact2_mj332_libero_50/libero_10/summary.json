@@ -1,0 +1,32 @@
+{
+ "suite": "libero_10",
+ "rollouts": 250,
+ "successes": 247,
+ "success_rate": 0.988,
+ "expected_rollouts": 500,
+ "missing_rollouts": 250,
+ "duplicate_rows": 0,
+ "exceptions": 0,
+ "per_task": {
+  "0": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "1": {
+   "successes": 49,
+   "rollouts": 50
+  },
+  "3": {
+   "successes": 49,
+   "rollouts": 50
+  },
+  "6": {
+   "successes": 49,
+   "rollouts": 50
+  },
+  "7": {
+   "successes": 50,
+   "rollouts": 50
+  }
+ }
+}

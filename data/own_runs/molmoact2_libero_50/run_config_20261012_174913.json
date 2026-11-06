@@ -1,0 +1,7 @@
+{"run_id": "20261012_174913", "model": "MolmoAct2 (LeRobot policy)", "checkpoint": "~/roboelo/checkpoints/MolmoAct2-LIBERO-LeRobot-cfgfix",
+ "base_checkpoint": "allenai/MolmoAct2-LIBERO", "suite_groups": "libero_spatial libero_object libero_goal;libero_10", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 1000, "env_seed": "seed + initial state id",
+ "num_steps_wait": 50, "max_steps": "LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "inference": "continuous, bfloat16, amp, cuda graph, per-episode seed", "device": "cuda", "gpu": "1",
+ "workers": 2, "under_gdb": "1",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

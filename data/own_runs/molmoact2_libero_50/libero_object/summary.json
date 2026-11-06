@@ -1,0 +1,52 @@
+{
+ "suite": "libero_object",
+ "rollouts": 500,
+ "successes": 498,
+ "success_rate": 0.996,
+ "expected_rollouts": 500,
+ "missing_rollouts": 0,
+ "duplicate_rows": 0,
+ "exceptions": 0,
+ "per_task": {
+  "0": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "1": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "2": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "3": {
+   "successes": 48,
+   "rollouts": 50
+  },
+  "4": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "5": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "6": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "7": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "8": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "9": {
+   "successes": 50,
+   "rollouts": 50
+  }
+ }
+}

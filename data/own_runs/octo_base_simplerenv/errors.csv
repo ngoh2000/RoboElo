@@ -1,0 +1,6 @@
+episode_index,attempt,time,error
+907,1,2026-10-17T03:27:07.389030,RuntimeError: cannot create buffer
+907,2,2026-10-17T03:27:09.879789,RuntimeError: cannot create buffer
+907,3,2026-10-17T03:27:12.055256,RuntimeError: cannot create buffer
+909,1,2026-10-17T03:27:14.113019,RuntimeError: cannot create buffer
+909,2,2026-10-17T03:27:16.402065,RuntimeError: cannot create buffer

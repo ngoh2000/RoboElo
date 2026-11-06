@@ -1,0 +1,13 @@
+{"run_id": "20261017_054305", "model": "lingbot_va", "checkpoint": "~/roboelo/checkpoints/lingbot-va-libero-long-lerobot", "checkpoint_label": "lerobot/lingbot_va_libero_long",
+ "runner": "run_lerobot_libero.py (LeRobot policy, processors, LIBERO env and rollout loop)", "worker_script": "~/roboelo/scripts/run_lerobot_libero.py",
+ "extra_lerobot_eval_flags": "--env.observation_height=128 --env.observation_width=128 --policy.wan_pretrained_path=~/roboelo/checkpoints/lingbot-va-frozen", "extra_worker_env": "", "suite_groups": "libero_10:0-1+3+6-7", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 1000, "env_seed": "seed + initial state id",
+ "num_steps_wait": 10, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "1", "workers": 1, "under_gdb": "1",
+ "python": "~/roboelo/envs/lerobot-mujoco332/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config_lerobot", "code_repo": "~/roboelo/third_party/lerobot",
+ "code_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

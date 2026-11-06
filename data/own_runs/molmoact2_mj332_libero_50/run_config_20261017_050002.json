@@ -1,0 +1,13 @@
+{"run_id": "20261017_050002", "model": "molmoact2", "checkpoint": "~/roboelo/checkpoints/MolmoAct2-LIBERO-LeRobot-cfgfix", "checkpoint_label": "MolmoAct2-LIBERO-LeRobot",
+ "runner": "run_lerobot_libero.py (LeRobot policy, processors, LIBERO env and rollout loop)", "worker_script": "~/roboelo/scripts/run_lerobot_libero.py",
+ "extra_lerobot_eval_flags": "--policy.inference_action_mode=continuous --policy.per_episode_seed=true --policy.eval_seed=1000 --policy.model_dtype=bfloat16 --policy.use_amp=true --policy.enable_inference_cuda_graph=true --env.camera_name_mapping={\"agentview_image\":\"image\",\"robot0_eye_in_hand_image\":\"wrist_image\"}", "extra_worker_env": "", "suite_groups": "libero_spatial:2+5+8 libero_10:0+1;libero_10:3+6+7", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 1000, "env_seed": "seed + initial state id",
+ "num_steps_wait": 50, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "1", "workers": 2, "under_gdb": "1",
+ "python": "~/roboelo/envs/lerobot-mujoco332/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config_lerobot", "code_repo": "~/roboelo/third_party/lerobot",
+ "code_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

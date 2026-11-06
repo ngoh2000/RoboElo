@@ -1,0 +1,13 @@
+{"run_id": "20261015_223704", "model": "openvla_oft", "checkpoint": "~/roboelo/checkpoints/openvla-oft-libero-combined", "checkpoint_label": "moojink/openvla-7b-oft-finetuned-libero-spatial-object-goal-10",
+ "runner": "run_openvla_oft_libero.py: openvla-oft experiments/robot/libero/run_libero_eval.py (GenerateConfig, initialize_model, prepare_observation, process_action) and its run_episode loop", "worker_script": "~/roboelo/scripts/run_openvla_oft_libero.py",
+ "extra_lerobot_eval_flags": "--seed 7", "suite_groups": "libero_spatial libero_object libero_goal libero_10", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 7, "env_seed": "env.seed(0) in get_libero_env; global seed 7 set once",
+ "num_steps_wait": 10, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "Official openvla-oft LIBERO settings: 2 images + proprio, L1-regression action head, chunks of 8 actions open-loop, center crop, 256 px env images, 10 no-op steps, max steps 220/280/300/520, unnorm_key <suite>_no_noops, seed 7. The combined 4-suite checkpoint (paper appendix: 96.8% vs 97.1% for the per-suite ones). Env roboelo-openvla-oft: transformers fork moojink/transformers-openvla-oft, torch 2.7.1+cu128 instead of the pinned 2.2.0 (RTX 5090), MuJoCo 3.3.2, robosuite 1.4.1, tensorflow 2.15. An exception is recorded and the rollout re-run (the official loop counts it as a failure).",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "1", "workers": 1, "under_gdb": "1",
+ "python": "~/roboelo/micromamba/envs/roboelo-openvla-oft/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config", "code_repo": "~/roboelo/third_party/openvla-oft",
+ "code_commit": "e4287e94541f459edc4feabc4e181f537cd569a8",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

@@ -1,0 +1,9 @@
+{"run_id": "20261015_155634", "model": "pi0", "checkpoint": "~/roboelo/checkpoints/pi0-libero-lerobot", "checkpoint_label": "lerobot/pi0_libero_finetuned_v044",
+ "runner": "run_lerobot_libero.py (LeRobot policy, processors, LIBERO env and rollout loop)",
+ "extra_lerobot_eval_flags": "--policy.compile_model=false", "suite_groups": "libero_spatial libero_object;libero_goal libero_10:0-3;libero_10:4-9", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 1000, "env_seed": "seed + initial state id",
+ "num_steps_wait": 10, "max_steps": "LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "0", "workers": 3, "under_gdb": "1",
+ "python": "~/roboelo/envs/lerobot-mujoco332/bin/python", "mujoco": "3.3.2",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

@@ -1,0 +1,13 @@
+{"run_id": "20261015_225907", "model": "openvla", "checkpoint": "~/roboelo/checkpoints/openvla-7b-finetuned-libero-spatial", "checkpoint_label": "openvla/openvla-7b-finetuned-{suite}",
+ "runner": "run_openvla_libero.py: the loop of openvla experiments/robot/libero/run_libero_eval.py", "worker_script": "~/roboelo/scripts/run_openvla_libero.py",
+ "extra_lerobot_eval_flags": "--seed 7", "suite_groups": "libero_spatial libero_object libero_10:0-1;libero_goal libero_10:2-9", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 7, "env_seed": "env.seed(0) in openvla get_libero_env; global seed 7 set once",
+ "num_steps_wait": 10, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "Official openvla run_libero_eval.py settings: per-suite fine-tuned checkpoint, unnorm_key = suite, center_crop, 256 px env images resized to 224, 10 no-op steps, max steps 220/280/300/520, gripper normalized+inverted. Env roboelo-libero (MuJoCo 3.3.2, robosuite 1.4.1, transformers 4.40.1, flash-attn), LIBERO from third_party/LIBERO. Same as official except one CSV row per rollout and goal-predicate partial progress.",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "0", "workers": 2, "under_gdb": "1",
+ "python": "~/roboelo/micromamba/envs/roboelo-libero/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config", "code_repo": "~/roboelo/third_party/openvla",
+ "code_commit": "c8f03f48af692657d3060c19588038c7220e9af9",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}
