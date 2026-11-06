@@ -1,0 +1,13 @@
+{"run_id": "20261016_231143", "model": "univla", "checkpoint": "~/roboelo/checkpoints/univla-7b-224-sft-libero/univla-libero-spatial", "checkpoint_label": "qwbu/univla-7b-224-sft-libero/univla-{suite}",
+ "runner": "run_univla_libero.py: the loop of UniVLA experiments/robot/libero/run_libero_eval.py (its GenerateConfig and ActionDecoder imported)", "worker_script": "~/roboelo/scripts/run_univla_libero.py",
+ "extra_lerobot_eval_flags": "--seed 7", "extra_worker_env": "", "suite_groups": "libero_spatial libero_object libero_goal libero_10", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 7, "env_seed": "env.seed(0) in get_libero_env; global seed 7 set once",
+ "num_steps_wait": 10, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "Official UniVLA LIBERO settings: per-suite checkpoint and action decoder, latent-action history in the prompt, window 12 with temporal ensembling, center crop, 256 px env images, 10 no-op steps, max steps 240/300/320/550, unnorm_key <suite>_no_noops, seed 7. Env roboelo-univla: torch 2.7.1+cu128, transformers 4.40.1, flash-attn 2.8.3, MuJoCo 3.3.2 (was 3.12), robosuite 1.4.1, tensorflow 2.15. An exception is recorded and the rollout re-run (the official loop ends the episode as a failure).",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "1", "workers": 1, "under_gdb": "1",
+ "python": "~/roboelo/micromamba/envs/roboelo-univla/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config", "code_repo": "~/roboelo/third_party/UniVLA",
+ "code_commit": "0ab9e9dd3074ffa14fdd1a00aa2aa84e4f8e1352",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

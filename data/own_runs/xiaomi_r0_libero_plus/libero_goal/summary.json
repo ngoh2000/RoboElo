@@ -1,0 +1,10376 @@
+{
+ "suite": "libero_goal",
+ "rollouts": 2591,
+ "successes": 1997,
+ "success_rate": 0.7707,
+ "expected_rollouts": 2591,
+ "missing_rollouts": 0,
+ "duplicate_rows": 0,
+ "exceptions": 0,
+ "per_task": {
+  "0": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "3": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "4": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "5": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "6": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "7": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "8": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "9": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "10": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "11": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "12": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "13": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "14": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "15": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "16": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "17": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "18": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "19": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "20": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "21": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "22": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "23": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "24": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "25": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "26": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "27": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "28": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "29": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "30": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "31": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "32": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "33": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "34": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "35": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "36": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "37": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "38": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "39": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "40": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "41": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "42": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "43": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "44": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "45": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "46": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "47": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "48": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "49": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "50": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "51": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "52": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "53": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "54": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "55": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "56": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "57": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "58": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "59": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "60": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "61": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "62": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "63": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "64": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "65": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "66": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "67": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "68": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "69": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "70": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "71": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "72": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "73": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "74": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "75": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "76": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "77": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "78": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "79": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "80": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "81": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "82": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "83": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "84": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "85": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "86": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "87": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "88": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "89": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "90": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "91": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "92": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "93": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "94": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "95": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "96": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "97": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "98": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "99": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "100": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "101": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "102": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "103": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "104": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "105": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "106": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "107": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "108": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "109": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "110": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "111": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "112": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "113": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "114": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "115": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "116": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "117": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "118": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "119": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "120": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "121": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "122": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "123": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "124": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "125": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "126": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "127": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "128": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "129": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "130": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "131": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "132": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "133": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "134": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "135": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "136": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "137": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "138": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "139": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "140": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "141": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "142": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "143": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "144": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "145": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "146": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "147": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "148": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "149": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "150": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "151": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "152": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "153": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "154": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "155": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "156": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "157": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "158": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "159": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "160": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "161": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "162": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "163": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "164": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "165": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "166": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "167": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "168": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "169": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "170": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "171": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "172": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "173": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "174": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "175": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "176": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "177": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "178": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "179": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "180": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "181": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "182": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "183": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "184": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "185": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "186": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "187": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "188": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "189": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "190": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "191": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "192": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "193": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "194": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "195": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "196": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "197": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "198": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "199": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "200": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "201": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "202": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "203": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "204": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "205": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "206": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "207": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "208": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "209": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "210": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "211": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "212": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "213": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "214": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "215": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "216": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "217": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "218": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "219": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "220": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "221": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "222": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "223": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "224": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "225": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "226": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "227": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "228": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "229": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "230": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "231": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "232": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "233": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "234": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "235": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "236": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "237": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "238": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "239": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "240": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "241": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "242": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "243": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "244": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "245": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "246": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "247": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "248": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "249": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "250": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "251": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "252": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "253": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "254": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "255": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "256": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "257": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "258": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "259": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "260": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "261": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "262": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "263": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "264": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "265": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "266": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "267": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "268": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "269": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "270": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "271": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "272": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "273": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "274": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "275": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "276": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "277": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "278": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "279": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "280": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "281": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "282": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "283": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "284": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "285": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "286": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "287": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "288": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "289": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "290": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "291": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "292": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "293": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "294": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "295": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "296": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "297": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "298": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "299": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "300": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "301": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "302": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "303": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "304": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "305": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "306": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "307": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "308": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "309": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "310": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "311": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "312": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "313": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "314": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "315": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "316": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "317": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "318": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "319": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "320": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "321": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "322": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "323": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "324": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "325": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "326": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "327": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "328": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "329": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "330": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "331": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "332": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "333": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "334": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "335": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "336": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "337": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "338": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "339": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "340": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "341": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "342": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "343": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "344": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "345": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "346": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "347": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "348": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "349": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "350": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "351": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "352": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "353": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "354": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "355": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "356": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "357": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "358": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "359": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "360": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "361": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "362": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "363": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "364": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "365": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "366": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "367": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "368": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "369": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "370": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "371": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "372": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "373": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "374": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "375": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "376": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "377": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "378": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "379": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "380": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "381": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "382": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "383": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "384": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "385": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "386": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "387": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "388": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "389": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "390": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "391": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "392": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "393": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "394": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "395": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "396": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "397": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "398": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "399": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "400": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "401": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "402": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "403": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "404": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "405": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "406": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "407": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "408": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "409": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "410": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "411": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "412": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "413": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "414": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "415": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "416": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "417": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "418": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "419": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "420": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "421": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "422": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "423": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "424": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "425": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "426": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "427": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "428": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "429": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "430": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "431": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "432": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "433": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "434": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "435": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "436": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "437": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "438": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "439": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "440": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "441": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "442": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "443": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "444": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "445": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "446": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "447": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "448": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "449": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "450": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "451": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "452": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "453": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "454": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "455": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "456": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "457": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "458": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "459": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "460": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "461": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "462": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "463": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "464": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "465": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "466": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "467": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "468": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "469": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "470": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "471": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "472": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "473": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "474": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "475": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "476": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "477": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "478": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "479": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "480": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "481": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "482": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "483": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "484": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "485": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "486": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "487": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "488": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "489": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "490": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "491": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "492": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "493": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "494": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "495": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "496": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "497": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "498": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "499": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "500": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "501": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "502": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "503": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "504": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "505": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "506": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "507": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "508": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "509": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "510": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "511": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "512": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "513": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "514": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "515": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "516": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "517": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "518": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "519": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "520": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "521": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "522": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "523": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "524": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "525": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "526": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "527": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "528": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "529": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "530": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "531": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "532": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "533": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "534": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "535": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "536": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "537": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "538": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "539": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "540": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "541": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "542": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "543": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "544": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "545": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "546": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "547": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "548": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "549": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "550": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "551": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "552": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "553": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "554": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "555": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "556": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "557": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "558": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "559": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "560": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "561": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "562": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "563": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "564": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "565": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "566": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "567": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "568": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "569": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "570": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "571": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "572": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "573": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "574": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "575": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "576": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "577": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "578": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "579": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "580": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "581": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "582": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "583": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "584": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "585": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "586": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "587": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "588": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "589": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "590": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "591": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "592": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "593": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "594": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "595": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "596": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "597": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "598": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "599": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "600": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "601": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "602": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "603": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "604": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "605": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "606": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "607": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "608": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "609": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "610": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "611": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "612": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "613": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "614": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "615": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "616": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "617": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "618": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "619": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "620": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "621": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "622": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "623": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "624": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "625": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "626": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "627": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "628": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "629": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "630": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "631": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "632": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "633": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "634": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "635": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "636": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "637": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "638": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "639": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "640": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "641": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "642": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "643": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "644": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "645": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "646": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "647": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "648": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "649": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "650": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "651": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "652": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "653": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "654": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "655": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "656": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "657": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "658": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "659": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "660": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "661": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "662": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "663": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "664": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "665": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "666": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "667": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "668": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "669": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "670": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "671": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "672": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "673": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "674": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "675": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "676": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "677": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "678": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "679": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "680": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "681": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "682": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "683": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "684": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "685": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "686": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "687": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "688": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "689": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "690": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "691": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "692": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "693": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "694": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "695": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "696": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "697": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "698": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "699": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "700": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "701": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "702": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "703": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "704": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "705": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "706": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "707": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "708": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "709": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "710": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "711": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "712": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "713": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "714": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "715": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "716": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "717": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "718": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "719": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "720": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "721": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "722": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "723": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "724": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "725": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "726": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "727": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "728": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "729": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "730": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "731": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "732": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "733": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "734": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "735": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "736": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "737": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "738": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "739": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "740": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "741": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "742": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "743": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "744": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "745": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "746": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "747": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "748": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "749": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "750": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "751": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "752": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "753": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "754": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "755": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "756": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "757": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "758": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "759": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "760": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "761": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "762": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "763": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "764": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "765": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "766": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "767": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "768": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "769": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "770": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "771": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "772": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "773": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "774": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "775": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "776": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "777": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "778": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "779": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "780": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "781": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "782": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "783": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "784": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "785": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "786": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "787": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "788": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "789": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "790": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "791": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "792": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "793": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "794": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "795": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "796": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "797": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "798": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "799": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "800": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "801": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "802": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "803": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "804": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "805": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "806": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "807": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "808": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "809": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "810": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "811": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "812": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "813": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "814": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "815": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "816": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "817": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "818": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "819": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "820": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "821": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "822": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "823": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "824": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "825": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "826": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "827": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "828": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "829": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "830": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "831": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "832": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "833": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "834": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "835": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "836": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "837": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "838": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "839": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "840": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "841": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "842": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "843": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "844": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "845": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "846": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "847": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "848": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "849": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "850": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "851": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "852": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "853": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "854": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "855": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "856": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "857": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "858": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "859": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "860": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "861": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "862": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "863": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "864": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "865": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "866": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "867": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "868": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "869": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "870": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "871": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "872": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "873": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "874": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "875": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "876": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "877": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "878": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "879": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "880": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "881": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "882": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "883": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "884": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "885": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "886": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "887": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "888": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "889": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "890": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "891": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "892": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "893": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "894": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "895": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "896": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "897": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "898": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "899": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "900": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "901": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "902": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "903": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "904": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "905": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "906": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "907": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "908": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "909": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "910": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "911": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "912": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "913": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "914": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "915": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "916": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "917": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "918": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "919": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "920": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "921": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "922": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "923": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "924": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "925": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "926": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "927": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "928": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "929": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "930": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "931": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "932": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "933": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "934": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "935": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "936": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "937": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "938": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "939": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "940": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "941": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "942": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "943": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "944": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "945": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "946": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "947": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "948": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "949": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "950": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "951": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "952": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "953": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "954": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "955": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "956": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "957": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "958": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "959": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "960": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "961": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "962": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "963": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "964": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "965": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "966": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "967": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "968": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "969": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "970": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "971": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "972": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "973": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "974": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "975": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "976": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "977": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "978": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "979": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "980": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "981": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "982": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "983": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "984": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "985": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "986": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "987": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "988": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "989": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "990": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "991": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "992": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "993": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "994": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "995": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "996": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "997": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "998": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "999": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1000": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1001": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1002": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1003": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1004": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1005": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1006": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1007": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1008": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1009": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1010": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1011": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1012": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1013": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1014": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1015": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1016": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1017": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1018": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1019": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1020": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1021": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1022": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1023": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1024": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1025": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1026": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1027": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1028": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1029": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1030": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1031": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1032": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1033": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1034": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1035": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1036": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1037": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1038": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1039": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1040": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1041": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1042": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1043": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1044": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1045": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1046": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1047": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1048": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1049": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1050": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1051": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1052": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1053": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1054": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1055": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1056": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1057": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1058": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1059": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1060": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1061": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1062": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1063": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1064": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1065": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1066": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1067": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1068": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1069": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1070": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1071": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1072": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1073": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1074": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1075": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1076": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1077": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1078": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1079": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1080": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1081": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1082": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1083": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1084": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1085": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1086": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1087": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1088": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1089": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1090": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1091": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1092": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1093": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1094": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1095": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1096": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1097": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1098": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1099": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1100": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1101": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1102": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1103": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1104": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1105": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1106": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1107": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1108": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1109": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1110": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1111": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1112": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1113": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1114": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1115": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1116": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1117": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1118": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1119": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1120": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1121": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1122": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1123": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1124": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1125": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1126": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1127": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1128": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1129": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1130": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1131": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1132": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1133": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1134": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1135": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1136": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1137": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1138": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1139": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1140": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1141": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1142": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1143": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1144": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1145": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1146": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1147": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1148": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1149": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1150": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1151": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1152": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1153": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1154": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1155": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1156": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1157": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1158": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1159": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1160": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1161": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1162": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1163": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1164": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1165": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1166": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1167": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1168": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1169": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1170": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1171": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1172": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1173": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1174": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1175": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1176": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1177": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1178": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1179": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1180": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1181": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1182": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1183": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1184": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1185": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1186": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1187": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1188": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1189": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1190": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1191": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1192": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1193": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1194": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1195": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1196": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1197": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1198": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1199": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1200": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1201": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1202": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1203": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1204": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1205": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1206": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1207": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1208": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1209": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1210": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1211": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1212": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1213": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1214": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1215": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1216": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1217": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1218": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1219": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1220": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1221": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1222": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1223": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1224": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1225": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1226": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1227": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1228": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1229": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1230": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1231": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1232": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1233": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1234": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1235": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1236": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1237": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1238": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1239": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1240": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1241": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1242": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1243": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1244": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1245": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1246": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1247": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1248": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1249": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1250": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1251": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1252": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1253": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1254": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1255": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1256": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1257": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1258": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1259": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1260": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1261": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1262": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1263": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1264": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1265": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1266": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1267": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1268": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1269": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1270": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1271": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1272": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1273": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1274": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1275": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1276": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1277": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1278": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1279": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1280": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1281": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1282": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1283": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1284": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1285": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1286": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1287": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1288": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1289": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1290": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1291": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1292": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1293": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1294": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1295": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1296": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1297": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1298": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1299": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1300": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1301": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1302": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1303": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1304": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1305": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1306": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1307": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1308": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1309": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1310": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1311": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1312": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1313": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1314": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1315": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1316": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1317": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1318": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1319": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1320": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1321": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1322": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1323": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1324": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1325": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1326": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1327": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1328": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1329": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1330": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1331": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1332": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1333": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1334": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1335": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1336": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1337": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1338": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1339": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1340": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1341": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1342": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1343": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1344": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1345": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1346": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1347": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1348": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1349": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1350": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1351": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1352": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1353": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1354": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1355": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1356": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1357": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1358": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1359": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1360": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1361": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1362": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1363": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1364": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1365": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1366": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1367": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1368": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1369": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1370": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1371": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1372": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1373": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1374": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1375": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1376": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1377": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1378": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1379": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1380": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1381": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1382": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1383": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1384": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1385": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1386": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1387": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1388": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1389": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1390": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1391": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1392": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1393": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1394": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1395": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1396": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1397": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1398": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1399": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1400": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1401": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1402": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1403": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1404": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1405": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1406": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1407": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1408": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1409": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1410": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1411": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1412": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1413": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1414": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1415": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1416": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1417": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1418": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1419": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1420": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1421": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1422": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1423": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1424": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1425": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1426": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1427": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1428": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1429": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1430": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1431": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1432": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1433": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1434": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1435": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1436": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1437": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1438": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1439": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1440": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1441": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1442": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1443": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1444": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1445": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1446": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1447": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1448": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1449": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1450": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1451": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1452": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1453": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1454": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1455": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1456": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1457": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1458": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1459": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1460": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1461": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1462": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1463": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1464": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1465": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1466": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1467": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1468": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1469": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1470": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1471": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1472": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1473": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1474": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1475": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1476": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1477": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1478": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1479": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1480": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1481": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1482": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1483": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1484": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1485": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1486": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1487": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1488": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1489": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1490": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1491": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1492": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1493": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1494": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1495": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1496": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1497": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1498": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1499": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1500": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1501": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1502": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1503": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1504": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1505": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1506": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1507": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1508": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1509": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1510": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1511": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1512": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1513": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1514": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1515": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1516": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1517": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1518": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1519": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1520": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1521": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1522": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1523": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1524": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1525": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1526": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1527": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1528": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1529": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1530": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1531": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1532": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1533": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1534": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1535": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1536": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1537": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1538": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1539": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1540": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1541": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1542": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1543": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1544": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1545": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1546": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1547": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1548": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1549": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1550": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1551": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1552": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1553": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1554": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1555": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1556": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1557": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1558": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1559": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1560": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1561": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1562": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1563": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1564": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1565": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1566": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1567": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1568": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1569": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1570": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1571": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1572": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1573": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1574": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1575": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1576": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1577": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1578": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1579": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1580": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1581": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1582": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1583": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1584": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1585": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1586": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1587": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1588": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1589": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1590": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1591": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1592": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1593": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1594": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1595": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1596": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1597": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1598": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1599": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1600": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1601": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1602": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1603": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1604": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1605": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1606": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1607": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1608": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1609": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1610": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1611": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1612": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1613": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1614": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1615": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1616": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1617": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1618": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1619": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1620": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1621": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1622": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1623": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1624": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1625": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1626": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1627": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1628": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1629": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1630": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1631": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1632": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1633": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1634": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1635": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1636": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1637": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1638": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1639": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1640": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1641": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1642": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1643": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1644": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1645": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1646": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1647": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1648": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1649": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1650": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1651": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1652": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1653": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1654": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1655": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1656": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1657": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1658": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1659": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1660": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1661": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1662": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1663": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1664": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1665": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1666": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1667": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1668": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1669": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1670": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1671": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1672": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1673": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1674": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1675": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1676": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1677": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1678": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1679": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1680": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1681": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1682": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1683": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1684": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1685": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1686": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1687": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1688": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1689": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1690": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1691": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1692": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1693": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1694": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1695": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1696": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1697": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1698": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1699": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1700": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1701": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1702": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1703": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1704": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1705": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1706": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1707": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1708": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1709": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1710": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1711": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1712": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1713": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1714": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1715": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1716": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1717": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1718": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1719": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1720": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1721": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1722": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1723": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1724": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1725": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1726": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1727": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1728": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1729": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1730": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1731": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1732": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1733": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1734": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1735": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1736": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1737": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1738": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1739": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1740": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1741": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1742": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1743": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1744": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1745": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1746": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1747": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1748": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1749": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1750": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1751": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1752": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1753": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1754": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1755": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1756": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1757": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1758": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1759": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1760": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1761": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1762": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1763": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1764": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1765": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1766": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1767": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1768": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1769": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1770": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1771": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1772": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1773": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1774": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1775": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1776": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1777": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1778": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1779": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1780": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1781": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1782": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1783": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1784": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1785": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1786": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1787": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1788": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1789": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1790": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1791": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1792": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1793": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1794": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1795": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1796": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1797": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1798": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1799": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1800": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1801": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1802": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1803": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1804": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1805": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1806": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1807": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1808": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1809": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1810": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1811": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1812": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1813": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1814": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1815": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1816": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1817": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1818": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1819": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1820": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1821": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1822": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1823": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1824": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1825": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1826": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1827": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1828": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1829": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1830": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1831": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1832": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1833": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1834": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1835": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1836": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1837": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1838": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1839": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1840": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1841": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1842": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1843": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1844": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1845": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1846": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1847": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1848": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1849": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1850": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1851": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1852": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1853": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1854": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1855": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1856": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1857": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1858": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1859": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1860": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1861": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1862": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1863": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1864": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1865": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1866": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1867": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1868": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1869": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1870": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1871": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1872": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1873": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1874": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1875": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1876": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1877": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1878": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1879": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1880": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1881": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1882": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1883": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1884": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1885": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1886": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1887": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1888": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1889": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1890": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1891": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1892": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1893": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1894": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1895": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1896": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1897": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1898": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1899": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1900": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1901": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1902": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1903": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1904": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1905": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1906": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1907": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1908": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1909": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1910": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1911": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1912": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1913": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1914": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1915": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1916": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1917": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1918": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1919": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1920": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1921": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1922": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1923": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1924": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1925": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1926": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1927": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1928": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1929": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1930": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1931": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1932": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1933": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1934": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1935": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1936": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1937": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1938": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1939": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1940": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1941": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1942": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1943": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1944": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1945": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1946": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1947": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1948": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1949": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1950": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1951": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1952": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1953": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1954": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1955": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1956": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1957": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1958": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1959": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1960": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1961": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1962": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1963": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1964": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1965": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1966": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1967": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1968": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1969": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1970": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1971": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1972": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1973": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1974": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1975": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1976": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1977": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1978": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1979": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1980": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1981": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1982": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1983": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1984": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1985": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1986": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1987": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1988": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1989": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1990": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1991": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1992": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1993": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1994": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1995": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "1996": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1997": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1998": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "1999": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2000": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2001": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2002": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2003": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2004": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2005": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2006": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2007": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2008": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2009": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2010": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2011": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2012": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2013": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2014": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2015": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2016": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2017": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2018": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2019": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2020": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2021": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2022": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2023": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2024": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2025": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2026": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2027": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2028": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2029": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2030": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2031": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2032": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2033": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2034": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2035": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2036": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2037": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2038": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2039": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2040": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2041": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2042": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2043": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2044": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2045": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2046": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2047": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2048": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2049": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2050": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2051": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2052": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2053": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2054": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2055": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2056": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2057": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2058": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2059": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2060": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2061": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2062": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2063": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2064": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2065": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2066": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2067": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2068": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2069": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2070": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2071": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2072": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2073": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2074": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2075": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2076": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2077": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2078": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2079": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2080": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2081": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2082": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2083": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2084": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2085": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2086": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2087": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2088": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2089": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2090": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2091": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2092": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2093": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2094": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2095": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2096": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2097": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2098": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2099": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2100": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2101": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2102": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2103": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2104": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2105": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2106": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2107": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2108": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2109": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2110": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2111": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2112": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2113": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2114": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2115": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2116": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2117": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2118": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2119": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2120": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2121": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2122": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2123": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2124": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2125": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2126": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2127": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2128": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2129": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2130": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2131": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2132": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2133": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2134": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2135": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2136": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2137": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2138": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2139": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2140": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2141": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2142": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2143": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2144": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2145": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2146": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2147": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2148": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2149": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2150": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2151": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2152": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2153": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2154": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2155": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2156": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2157": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2158": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2159": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2160": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2161": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2162": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2163": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2164": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2165": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2166": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2167": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2168": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2169": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2170": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2171": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2172": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2173": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2174": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2175": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2176": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2177": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2178": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2179": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2180": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2181": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2182": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2183": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2184": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2185": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2186": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2187": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2188": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2189": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2190": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2191": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2192": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2193": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2194": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2195": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2196": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2197": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2198": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2199": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2200": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2201": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2202": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2203": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2204": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2205": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2206": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2207": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2208": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2209": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2210": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2211": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2212": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2213": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2214": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2215": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2216": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2217": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2218": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2219": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2220": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2221": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2222": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2223": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2224": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2225": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2226": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2227": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2228": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2229": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2230": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2231": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2232": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2233": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2234": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2235": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2236": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2237": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2238": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2239": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2240": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2241": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2242": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2243": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2244": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2245": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2246": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2247": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2248": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2249": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2250": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2251": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2252": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2253": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2254": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2255": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2256": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2257": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2258": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2259": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2260": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2261": {
+   "successes": 0,
+   "rollouts": 1
+  },
+  "2262": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2263": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2264": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2265": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2266": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2267": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2268": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2269": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2270": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2271": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2272": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2273": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2274": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2275": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2276": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2277": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2278": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2279": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2280": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2281": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2282": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2283": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2284": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2285": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2286": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2287": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2288": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2289": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2290": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2291": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2292": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2293": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2294": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2295": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2296": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2297": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2298": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2299": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2300": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2301": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2302": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2303": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2304": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2305": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2306": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2307": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2308": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2309": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2310": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2311": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2312": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2313": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2314": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2315": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2316": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2317": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2318": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2319": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2320": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2321": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2322": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2323": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2324": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2325": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2326": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2327": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2328": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2329": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2330": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2331": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2332": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2333": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2334": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2335": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2336": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2337": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2338": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2339": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2340": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2341": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2342": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2343": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2344": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2345": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2346": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2347": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2348": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2349": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2350": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2351": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2352": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2353": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2354": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2355": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2356": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2357": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2358": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2359": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2360": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2361": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2362": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2363": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2364": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2365": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2366": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2367": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2368": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2369": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2370": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2371": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2372": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2373": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2374": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2375": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2376": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2377": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2378": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2379": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2380": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2381": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2382": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2383": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2384": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2385": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2386": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2387": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2388": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2389": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2390": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2391": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2392": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2393": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2394": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2395": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2396": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2397": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2398": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2399": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2400": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2401": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2402": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2403": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2404": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2405": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2406": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2407": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2408": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2409": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2410": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2411": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2412": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2413": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2414": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2415": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2416": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2417": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2418": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2419": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2420": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2421": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2422": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2423": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2424": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2425": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2426": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2427": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2428": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2429": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2430": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2431": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2432": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2433": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2434": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2435": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2436": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2437": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2438": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2439": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2440": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2441": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2442": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2443": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2444": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2445": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2446": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2447": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2448": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2449": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2450": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2451": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2452": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2453": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2454": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2455": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2456": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2457": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2458": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2459": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2460": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2461": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2462": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2463": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2464": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2465": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2466": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2467": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2468": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2469": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2470": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2471": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2472": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2473": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2474": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2475": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2476": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2477": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2478": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2479": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2480": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2481": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2482": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2483": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2484": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2485": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2486": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2487": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2488": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2489": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2490": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2491": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2492": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2493": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2494": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2495": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2496": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2497": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2498": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2499": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2500": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2501": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2502": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2503": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2504": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2505": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2506": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2507": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2508": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2509": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2510": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2511": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2512": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2513": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2514": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2515": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2516": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2517": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2518": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2519": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2520": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2521": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2522": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2523": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2524": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2525": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2526": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2527": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2528": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2529": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2530": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2531": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2532": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2533": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2534": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2535": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2536": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2537": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2538": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2539": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2540": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2541": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2542": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2543": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2544": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2545": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2546": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2547": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2548": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2549": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2550": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2551": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2552": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2553": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2554": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2555": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2556": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2557": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2558": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2559": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2560": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2561": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2562": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2563": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2564": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2565": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2566": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2567": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2568": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2569": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2570": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2571": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2572": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2573": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2574": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2575": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2576": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2577": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2578": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2579": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2580": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2581": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2582": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2583": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2584": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2585": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2586": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2587": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2588": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2589": {
+   "successes": 1,
+   "rollouts": 1
+  },
+  "2590": {
+   "successes": 1,
+   "rollouts": 1
+  }
+ }
+}

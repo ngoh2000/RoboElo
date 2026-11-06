@@ -1,0 +1,11 @@
+suite,task_id,init_state_id,attempt,time,error
+libero_spatial,1,25,1,2026-10-09T01:40:42.678699,ConnectionClosedError: no close frame received or sent
+libero_spatial,1,29,1,2026-10-10T02:21:04.193082,ConnectionClosedError: no close frame received or sent
+libero_spatial,1,37,1,2026-10-10T02:22:37.674752,ConnectionClosedError: no close frame received or sent
+libero_spatial,2,32,1,2026-10-10T02:28:49.887283,ConnectionClosedError: no close frame received or sent
+libero_spatial,2,34,1,2026-10-10T02:29:30.510168,ConnectionClosedError: no close frame received or sent
+libero_spatial,2,43,1,2026-10-10T02:31:15.918695,ConnectionClosedError: no close frame received or sent
+libero_spatial,2,47,1,2026-10-10T02:32:10.785978,ConnectionClosedError: no close frame received or sent
+libero_spatial,3,1,1,2026-10-10T02:33:07.641046,ConnectionClosedError: no close frame received or sent
+libero_spatial,3,9,1,2026-10-10T02:34:28.998691,ConnectionClosedError: no close frame received or sent
+libero_spatial,3,25,1,2026-10-10T02:36:12.290307,ConnectionClosedError: no close frame received or sent

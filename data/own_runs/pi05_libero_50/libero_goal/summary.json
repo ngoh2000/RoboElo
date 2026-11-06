@@ -1,0 +1,51 @@
+{
+ "suite": "libero_goal",
+ "rollouts": 500,
+ "successes": 490,
+ "success_rate": 0.98,
+ "expected_rollouts_this_call": 500,
+ "new_rollouts": 341,
+ "exceptions": 0,
+ "per_task": {
+  "0": {
+   "successes": 48,
+   "rollouts": 50
+  },
+  "1": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "2": {
+   "successes": 49,
+   "rollouts": 50
+  },
+  "3": {
+   "successes": 49,
+   "rollouts": 50
+  },
+  "4": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "5": {
+   "successes": 49,
+   "rollouts": 50
+  },
+  "6": {
+   "successes": 49,
+   "rollouts": 50
+  },
+  "7": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "8": {
+   "successes": 50,
+   "rollouts": 50
+  },
+  "9": {
+   "successes": 46,
+   "rollouts": 50
+  }
+ }
+}

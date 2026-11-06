@@ -1,0 +1,11 @@
+suite,task_id,init_state_id,attempt,time,error
+libero_goal,1,10,1,2026-10-09T01:40:42.678881,ConnectionClosedError: no close frame received or sent
+libero_goal,1,16,1,2026-10-10T02:21:04.193102,ConnectionClosedError: no close frame received or sent
+libero_goal,1,27,1,2026-10-10T02:22:37.674647,ConnectionClosedError: no close frame received or sent
+libero_goal,2,26,1,2026-10-10T02:28:49.887177,ConnectionClosedError: no close frame received or sent
+libero_goal,2,26,2,2026-10-10T02:29:30.509858,ConnectionClosedError: no close frame received or sent
+libero_goal,2,37,1,2026-10-10T02:31:15.918352,ConnectionClosedError: no close frame received or sent
+libero_goal,2,42,1,2026-10-10T02:32:10.786186,ConnectionClosedError: no close frame received or sent
+libero_goal,2,46,1,2026-10-10T02:33:07.641099,ConnectionClosedError: no close frame received or sent
+libero_goal,3,2,1,2026-10-10T02:34:28.998786,ConnectionClosedError: no close frame received or sent
+libero_goal,3,9,1,2026-10-10T02:36:12.290376,ConnectionClosedError: no close frame received or sent

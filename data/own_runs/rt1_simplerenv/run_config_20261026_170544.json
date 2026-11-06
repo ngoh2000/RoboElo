@@ -1,0 +1,8 @@
+{"run_id": "20261026_170544", "model": "rt1", "checkpoint_label": "rt_1_tf_trained_for_000400120",
+ "runner": "run_simpler_env.py: the loop of SimplerEnv's run_maniskill2_eval_single_episode over the official episode list",
+ "episodes": "~/roboelo/state/simpler/episodes_official.jsonl", "families": "google_robot", "protocols": "visual_matching,variant_aggregation", "expected_episodes": 2856,
+ "factory": "~/roboelo/scripts/simpler_policies.py:rt1", "policy_kwargs": "{\"ckpt\": \"~/roboelo/checkpoints/rt1_converged/rt_1_tf_trained_for_000400120\"}", "workers": 2, "gpu": "0",
+ "shards": "0,1 of 2",
+ "python": "~/roboelo/envs/simpler-tf/bin/python", "simpler_root": "~/roboelo/third_party/SimplerEnv", "simpler_commit": "06accaca93535902d408da4855f21cece12bceb7",
+ "extra_pythonpath": "", "policy_server": "",
+ "policy_server_cwd": "~/roboelo", "note": "RT-1 (Converged) checkpoint rt_1_tf_trained_for_000400120 as in SimplerEnv's README and rt1 scripts, SimplerEnv's own RT1Inference; TensorFlow 2.15 on the CPU (no RTX 5090 kernels), rendering on the GPU."}

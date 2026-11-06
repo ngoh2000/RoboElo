@@ -1,0 +1,13 @@
+{"run_id": "20261016_181929", "model": "vla_adapter", "checkpoint": "~/roboelo/checkpoints/vla-adapter-libero-spatial", "checkpoint_label": "VLA-Adapter/LIBERO-{suite}",
+ "runner": "run_vla_adapter_libero.py: VLA-Adapter experiments/robot/libero/run_libero_eval.py (GenerateConfig, initialize_model, prepare_observation, process_action) and its run_episode loop", "worker_script": "~/roboelo/scripts/run_vla_adapter_libero.py",
+ "extra_lerobot_eval_flags": "--seed 7", "extra_worker_env": "", "suite_groups": "libero_spatial libero_10:0-1;libero_object libero_10:2;libero_goal libero_10:3-4;libero_10:5-9", "num_trials_per_task": 50,
+ "initial_states": "LIBERO fixed initial states 0..N-1", "seed": 7, "env_seed": "env.seed(0) in get_libero_env; global seed 7 set once",
+ "num_steps_wait": 10, "episode_lengths": "",
+ "max_steps": "episode_lengths per suite if set, else --env.episode_length in the extra flags if set, else LeRobot defaults (spatial 280, object 280, goal 300, libero_10 520)",
+ "note": "Official VLA-Adapter LIBERO settings: Qwen2.5-0.5B mini-VLM, 2 images + proprio, L1-regression policy, chunks of 8 actions open-loop, center crop, 256 px env images, 10 no-op steps, max steps 220/280/300/520, unnorm_key <suite>_no_noops, seed 7; use_pro_version=False and save_version=vla-adapter for the original (non-Pro) checkpoints, whose shipped eval logs show 97.8 (spatial) and 95.0 (long). Env envs/vla-adapter (venv on roboelo-univla: transformers 4.40.1, torch 2.7.1+cu128 instead of the pinned 2.2.0, MuJoCo 3.3.2). An exception is recorded and the rollout re-run (the official loop counts it as a failure).",
+ "policy_settings": "as stored in the checkpoint (policy_config.json) unless overridden by the extra flags",
+ "device": "cuda", "gpu": "0", "workers": 4, "under_gdb": "1",
+ "python": "~/roboelo/envs/vla-adapter/bin/python", "mujoco": "3.3.2",
+ "libero_config": "~/roboelo/libero_config", "code_repo": "~/roboelo/third_party/VLA-Adapter",
+ "code_commit": "23fa0c9c159e2aa04341cdd3e924f44061311060",
+ "lerobot_commit": "30da8e687a6dfc617fcd94afc367ac7071c376ce"}

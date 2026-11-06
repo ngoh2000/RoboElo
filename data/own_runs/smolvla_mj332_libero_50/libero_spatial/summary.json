@@ -1,0 +1,24 @@
+{
+ "suite": "libero_spatial",
+ "rollouts": 150,
+ "successes": 126,
+ "success_rate": 0.84,
+ "expected_rollouts": 500,
+ "missing_rollouts": 350,
+ "duplicate_rows": 0,
+ "exceptions": 0,
+ "per_task": {
+  "2": {
+   "successes": 44,
+   "rollouts": 50
+  },
+  "5": {
+   "successes": 42,
+   "rollouts": 50
+  },
+  "8": {
+   "successes": 40,
+   "rollouts": 50
+  }
+ }
+}

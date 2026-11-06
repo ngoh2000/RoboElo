@@ -1,0 +1,11 @@
+suite,task_id,init_state_id,attempt,time,error
+libero_object,1,0,1,2026-10-09T01:40:42.678919,ConnectionClosedError: no close frame received or sent
+libero_object,1,4,1,2026-10-10T02:21:04.193086,ConnectionClosedError: no close frame received or sent
+libero_object,1,11,1,2026-10-10T02:22:37.674464,ConnectionClosedError: no close frame received or sent
+libero_object,1,47,1,2026-10-10T02:28:49.887127,ConnectionClosedError: no close frame received or sent
+libero_object,1,48,1,2026-10-10T02:29:30.510060,ConnectionClosedError: no close frame received or sent
+libero_object,2,5,1,2026-10-10T02:31:15.918461,ConnectionClosedError: no close frame received or sent
+libero_object,2,9,1,2026-10-10T02:32:10.786209,ConnectionClosedError: no close frame received or sent
+libero_object,2,12,1,2026-10-10T02:33:07.641047,ConnectionClosedError: no close frame received or sent
+libero_object,2,18,1,2026-10-10T02:34:28.998690,ConnectionClosedError: no close frame received or sent
+libero_object,2,29,1,2026-10-10T02:36:12.290306,ConnectionClosedError: no close frame received or sent
