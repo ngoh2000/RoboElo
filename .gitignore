@@ -1,0 +1,17 @@
+# credentials (server login, Hugging Face token) are never stored in this repository
+.env
+*.env
+
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+.venv/
+.ipynb_checkpoints/
+
+# outputs, written by scripts/run_unified_scale.py and scripts/make_unified_figures.py
+results/
+figures/
+
+# rollout videos stay on the evaluation server
+*.mp4
